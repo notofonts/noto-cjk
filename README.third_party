@@ -1,0 +1,17 @@
+URL: http://noto.googlecode.com/
+Version: 1.000
+License: Apache 2.0
+License File: LICENSE
+
+Description:
+Noto CJK fonts, supporting Simplified Chinese, Traditional Chinese,
+Japanese, and Korean. The supported scripts are Han, Hiragana, Katakana,
+Hangul, and Bopomofo. Latin, Greek, Cyrllic, and various symbols are also
+supported for compatibility with CJK standards.
+
+The fonts in this directory are developed by Google and Adobe and are
+released as open source under the Apache license version 2.0. The copyright
+is held by Adobe, while the trademarks on the names are held by Google.
+
+Local Modifications:
+None.
