@@ -26,5 +26,5 @@ This form has monolingual versions of the fonts. There is a separate font
 file for each of Simplified Chinese, Traditional Chinese, Japanese, and
 Korean.  If you want to install one language only then this would be the
 option with the smallest storage space used.  It would also be the choice if
-you want to use the font on a system that can’t support the OTC format and
-can’t use the OpenType ‘locl’ feature to select language.
+you want to use the font on a system (such as Windows) that can’t support
+the OTC format and can’t use the OpenType ‘locl’ feature to select language.
