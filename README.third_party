@@ -18,3 +18,6 @@ Windows-specific files have been added to work around a bug in Windows
 causing any font with a usWeight value less than 250 to get displayed with a
 much heavier weight. They are based on the original OTF files, and are
 modified using the nototools/fix_noto_cjk_thin.py script.
+
+A README.formats file has been added explaining the different formats
+provided and their features and limitations.
