@@ -1,30 +1,45 @@
 Noto CJK is available in multiple formats which have different uses. Each of
 these font formats used below has the capability to display both horizontal
-and vertical forms where appropriate.  Any of the fonts that support
+and vertical forms where appropriate. Any of the fonts that support
 Japanese will also be able to support proportional kana.
+
+Super OTC
+=========
+This packaging form carries the fonts for each of Simplified Chinese,
+Traditional Chinese, Japanese, and Korean multiplied by all 7 weights for
+each in one single font file. Once installed it will appear in font menus 
+as 28 separate fonts. This format is the easiest to install of all the
+formats and takes the least space due to sharing between the 28 pieces.
+
+This format works on recent versions of Mac and Linux but 
+unfortunately Windows does not support it.
 
 OTC
 ===
 This packaging form carries the fonts for each of Simplified Chinese,
-Traditional Chinese, Japanese, and Korean in a single font file.  Once
-installed it will appear in font menus as four separate fonts.  This format
+Traditional Chinese, Japanese, and Korean in a single font file. Once
+installed it will appear in font menus as four separate fonts. This format
 is the easiest to install and compared to installing four separate fonts
-takes less space.  This format works on Mac and Linux but unfortunately
-Windows does not support it.
+takes less space. There are 7 of these OTC font files with one for each weight
+from Thin to Black.
+
+This format works on recent versions of Mac and Linux but 
+unfortunately Windows does not support it.
 
 Multilingual OTF
 ================
-This form has all the same glyph coverage as the OTC format and so supports
-Simplified Chinese, Traditional Chinese, Japanese, and Korean.  Once
-installed it will appear as one font and will require that the language be
-specified with the OpenType ‘locl’ feature.  If no language is specified the
-language used by default will be Japanese.
+This format has 4 language specific variants that have all the same glyph coverage
+as the OTC format but provide language coverage through the the use of the 
+OpenType 'locl' feature. In each of these font files there is a single default language
+which is used when the 'locl' feature isn't specified. There are 28 of these files 
+(4 language default variants * 7 weights).
 
 OTF
 ===
-This form has monolingual versions of the fonts. There is a separate font
-file for each of Simplified Chinese, Traditional Chinese, Japanese, and
-Korean.  If you want to install one language only then this would be the
-option with the smallest storage space used.  It would also be the choice if
-you want to use the font on a system (such as Windows) that can’t support
-the OTC format and can’t use the OpenType ‘locl’ feature to select language.
+This form provides monolingual subset versions of the fonts. There is a 
+separate font file for each of Simplified Chinese, Traditional Chinese, 
+Japanese, and Korean. If you want to install one language only then this 
+would be the option to consider. It will have the smallest space requirement.
+It would also be the choice if you want to use the font on a system 
+(such as Windows) that doesn't support the OTC format and can’t use the OpenType 
+‘locl’ feature to select language.
