@@ -1,7 +1,10 @@
 URL: http://noto.googlecode.com/
-Version: 1.000
-License: Apache 2.0
+Version: 1.002
+License: SIL Open Font License v1.1
 License File: LICENSE
+
+Note: prior releases of the CJK fonts were issued under the Apache 2
+license. This was changed to the SIL OFL v1.1 starting with Version 1.002.
 
 Description:
 Noto CJK fonts, supporting Simplified Chinese, Traditional Chinese,
