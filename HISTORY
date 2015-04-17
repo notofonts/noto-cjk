@@ -1,0 +1,56 @@
+-------------------
+Prior Release Notes
+-------------------
+
+
+Noto Sans CJK 1.001 Release Notes
+=================================
+
+With this release there have been a number of bug fixes and some
+reorganization of the packages.  The package reorganization carries with it
+a small name change that affects the name of the file, menu name, and the
+internal PostScript name of the original OTF format font.  This is a one
+time name change only and names will be stable going forward.
+
+Bug Fixes
+---------
+There have been a number of fixes but the two most obvious ones are the fix
+in the alignment of the traditional Chinese punctuation and adjustment of
+the designs used for traditional Chinese to align better for usage in Hong
+Kong.
+
+https://code.google.com/p/noto/issues/detail?id=38
+https://code.google.com/p/noto/issues/detail?id=54
+
+Package Reorganization
+----------------------
+With this release there was an expansion in the number of file formats and
+combinations in which the fonts are being made available.
+
+There are now four major groups of font files by package in this release.
+These are:
+
+* Super OpenType Collection (Super OTC)
+    - This is a new format this release that bundles all 7 weights for all 4
+      languages into one large font resource.  It is smaller overall than
+      the combination of the 28 fonts that would be used otherwise because
+      of resource sharing and it is much easier to install.
+
+* OpenType Collection (OTC)
+    - Each OTC fully supports each of the four languages. There are 7 of these
+      with one for each weight.
+
+* Language Specific OTF
+    - Each font file supports each of the four languages by using the OpenType
+      ‘locl’ feature. However, by default, when the ‘locl’ feature is not
+      used, each font file supports a specific language.  That means that
+      there are 28 font files - 4 languages x 7 weights.
+    - This format of 4 language specific variants is new with this release and
+      replaces the previous single language variant that required the use of
+      the ‘locl’ feature.  This is where the name change occurred as we now
+      tag the various versions with the name of the default language.
+
+* Region Specific OTF subsets
+    - Each font file supports a region specific subset of the full fonts.
+      These contain only the glyphs needed for the specific region.  There
+      are 28 of these font files - 4 languages x 7 weights.
