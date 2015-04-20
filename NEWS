@@ -33,7 +33,7 @@ The new monospace fonts can be found in:
    each)
 
 Although eight new font instances were added, the footprint of the super OTC only
-increased by 1M or so, mainly due to the four additional ‘cmap’ tables. Two of the seven
+increased by 1M or so, mainly due to the four additional 'cmap' tables. Two of the seven
 OTC now contain eight font instances.
 
 --------------
