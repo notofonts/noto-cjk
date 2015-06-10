@@ -2,9 +2,69 @@
 Prior Release Notes
 -------------------
 
+Noto Sans CJK 1.002 Release Notes
+=================================
 
+April 20, 2015
+
+This release includes a license change, the addition of several new font instances, and a
+number of bug fixes.
+
+----------------------
+License Change
+----------------------
+The open source license is changed from Apache License, Version 2.0 to SIL Open Font
+License, Version 1.1.
+
+---------------------------
+New Font Instances
+---------------------------
+In total eight (4 languages x 2 weights) monospaced half-width OTF fonts were added, in
+regular and bold weights.
+
+ - Noto Sans Mono CJK SC Regular and Bold
+ - Noto Sans Mono CJK JP Regular and Bold
+ - Noto Sans Mono CJK KR Regular and Bold
+ - Noto Sans Mono CJK TC Regular and Bold
+
+The monospace fonts differ from the existing ones only in that the default (encoded)
+glyphs for ASCII (U+0020 to U+007E), U+00A0 ( ), U+00A5 (¥), U+2011 (‑), and U+20A9 (₩)
+are half-width instead of proportional.
+
+The new monospace fonts can be found in:
+ - All-in-one CJK super OTC font (now includes 36 font instances)
+ - CJK OTF fonts with different default language (two additional font instances for each
+   language)
+ - NotoSansCJK-Regular.ttc and NotoSansCJK-Bold.ttc (four additional font instances in
+   each)
+
+Although eight new font instances were added, the footprint of the super OTC only
+increased by 1M or so, mainly due to the four additional 'cmap' tables. Two of the seven
+OTC now contain eight font instances.
+
+--------------
+Bug Fixes
+--------------
+The Noto issues that have been fixed include:
+
+ - https://code.google.com/p/noto/issues/detail?id=74
+ - https://code.google.com/p/noto/issues/detail?id=126
+ - https://code.google.com/p/noto/issues/detail?id=136
+ - https://code.google.com/p/noto/issues/detail?id=151
+ - https://code.google.com/p/noto/issues/detail?id=182
+ - https://code.google.com/p/noto/issues/detail?id=193
+ - https://code.google.com/p/noto/issues/detail?id=266
+
+In addition to the issues tracked at code.google.com/p/noto/issues, there are also a
+number of fixes to issues tracked at https://github.com/adobe-fonts/source-han-sans. 
+Please find the details in the release notes for Source Han Sans.
+
+
+=================================
 Noto Sans CJK 1.001 Release Notes
 =================================
+
+September 12, 2014
 
 With this release there have been a number of bug fixes and some
 reorganization of the packages.  The package reorganization carries with it
