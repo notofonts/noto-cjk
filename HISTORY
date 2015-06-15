@@ -2,6 +2,18 @@
 Prior Release Notes
 -------------------
 
+Noto Sans CJK 1.003 Release Notes
+=================================
+
+June 8, 2015
+
+- Regularized the vertical metrics across all weights by setting the O/2.uWinAscent and
+  O/2.uWinDescent values to 1160 and 320 respectively and using those sames values in the
+  horizontal header (hhea) table.
+- The ‘locl’ GSUB feature was reconfigured to be usable in a broader range of contexts.
+
+
+
 Noto Sans CJK 1.002 Release Notes
 =================================
 
