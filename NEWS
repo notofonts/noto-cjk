@@ -1,15 +1,35 @@
-Noto Sans CJK 1.004 Release Notes
-=================================
+Noto Serif CJK 1.000 Release Notes
+==================================
 
-June 15, 2015
+April 3, 2017
 
-- Restore correct vertical Japanese Kana forms
+Introducing Noto Serif CJK 1.000
 
-The vertical kana glyphs that are made accessible via the 'vert' GSUB feature were
-inadvertently reverted to their Version 1.000 forms (except for those that were added in
-Version 1.002, meaning CIDs 65496 through 65505) in Version 1.002, which affected CIDs
-65166 through 65251, 65256 through 65258, 65260 through 65352, 65354 through 65369, and
-65471 through 65484. The correct forms, which were present in Version 1.001, are now
-included.
+This introduces a serif-style companion to Noto Sans CJK.  These fonts are again
+offered in seven weights, though they are slightly different-- ExtraLight,
+Light, Regular, Medium, SemiBold, Bold, and Heavy.  Unlike the Sans there are no
+monospace (Latin) versions of these fonts.
+
+The packaging options are the same as for the Sans: you can choose from an
+all-in-one CJK TTC, seven weight-specific CJK TTCs, twenty-eight CJK OTF files
+(four languages x seven weights) that default to one of the four supported
+languages, and twenty-eight region-specific OTF files (four regions x seven
+weights) that support a region-specific subset of the full character repertoire.
+
+The character repertoire is shared among all the Serif CJK fonts but there are
+slight differences between them and the Sans CJK.  About 50 characters, mostly
+new in Unicode 8.0 and 9.0, have been added, and about 1500 Plane 2 characters
+(CJK Unified Ideographs Extension B) have been removed to make room for better
+glyph support of more commonly-used characters.  The Serif CJK fonts support
+approximately 48,000 characters with 65535 glyphs, the maximum number of glyphs
+possible in a single font.  Most of the additional glyphs are regional variants,
+there are also specific japanese variants, ideographic variation sequences,
+vertical variants, precomposed Korean Jamo, and others.
+
+As with Sans CJK, Noto Serif CJK was developed under an open source license by
+Adobe Systems, Inc. and is almost identical to their Source Han Serif.  Please
+see the detailed Adobe release notes for more information.
+
+Noto Serif CJK is licensed under the SIL Open Font License, Version 1.1.
 
 See HISTORY for prior release notes.

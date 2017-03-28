@@ -2,6 +2,21 @@
 Prior Release Notes
 -------------------
 
+Noto Sans CJK 1.004 Release Notes
+=================================
+
+June 15, 2015
+
+- Restore correct vertical Japanese Kana forms
+
+The vertical kana glyphs that are made accessible via the 'vert' GSUB feature were
+inadvertently reverted to their Version 1.000 forms (except for those that were added in
+Version 1.002, meaning CIDs 65496 through 65505) in Version 1.002, which affected CIDs
+65166 through 65251, 65256 through 65258, 65260 through 65352, 65354 through 65369, and
+65471 through 65484. The correct forms, which were present in Version 1.001, are now
+included.
+
+
 Noto Sans CJK 1.003 Release Notes
 =================================
 
@@ -11,7 +26,6 @@ June 8, 2015
   O/2.uWinDescent values to 1160 and 320 respectively and using those sames values in the
   horizontal header (hhea) table.
 - The ‘locl’ GSUB feature was reconfigured to be usable in a broader range of contexts.
-
 
 
 Noto Sans CJK 1.002 Release Notes
@@ -72,7 +86,6 @@ number of fixes to issues tracked at https://github.com/adobe-fonts/source-han-s
 Please find the details in the release notes for Source Han Sans.
 
 
-=================================
 Noto Sans CJK 1.001 Release Notes
 =================================
 
