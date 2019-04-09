@@ -1,41 +1,39 @@
-Noto Sans CJK 2.000 Release Notes
+Noto Sans CJK 2.001 Release Notes
 ==================================
 
-19 November 2018
+April 9, 2019
 
 This is an update to Noto Sans CJK.
 
 Changes
-Version 2.000
-Build Date: November 2, 2018. Built By: Dr. Ken Lunde (小林劍󠄁). Release Date: November 19, 2018.
-Compared to the previous release—Version 1.004 that was released on 2015-06-16—a large number of chang- es were made, far too many to list here. Listed below are some of the more significant changes that were made in this release:
-• A second flavor of Traditional Chinese, for Hong Kong and supporting the HKSCS-2016 standard, was add- ed, which increased the total number of font resources by 16, from 72 to 88.
-• 155 new mappings have been added to the CMap resources. 66 are from BMP code points, 22 are from Plane 1 code points, and the remaining 67 are from Plane 2 code points. Among the 67 new Plane 2 code points, 57 are from Extension B, two are from Extension C, three are from Extension E, and the remaining five are from Extension F.
-• As a result of removing approximately 1,750 glyphs in order to make room for approximately 1,750 new glyphs, the CID assignments of the glyphs necessarily—and drastically—changed. The CID assignments of exactly 200 glyphs are unchanged from Version 1.004: 0–107, 2570–2633, 47223–47232, 47262–47272, 47281–47286, and 65484.
-• The Traditional Chinese form of the Radical #162 辶 component was improved.
-• The URO is complete up through U+9FEF (Unicode Version 11.0).
-• The glyphs for some of the kana were tweaked.
-• The glyphs and support for bopomofo, along with their tone marks, were improved. This involved adding the 'GDEF' (Glyph Definition) table, the 'mark' (Mark Positioning) GPOS feature, and the 'ruby' (Ruby Nota- tion Forms) GSUB feature.
-• The language and script declarations in the 'locl' and 'vert' GSUB features were improved.
-• The 13-page glyph synopsis PDFs for the 500 pre-composed high-frequency hangul syllables have been incorporated into the Unicode-base glyph synopsis PDFs, and are bookmarked under the “Korean” book- mark.
-• Placeholder glyphs for U+32FF, uni32FF (CID+2184) and uni32FF-V (CID+65359), are included. This character has been reserved for the two-ideograph square ligature that represents the name of Japan’s forthcoming new era which starts on 2019-05-01, and will be the only character added in Unicode Version 12.1.
-• Like Source Han Serif, the CIDFont and CMap resources do not include XUID arrays.
-• Like Source Han Serif, there are no mappings for the range U+0000 through U+001F.
-• Like Source Han Serif, the code points that correspond to Halfwidth Jamo variants map to glyphs that cor- respond to code points in the Hangul Compatibility Jamo block. In other words, the glyphs for half-width jamo have been removed.
-• Like Source Han Serif, the 'name' table does not includes any Macintosh (PlatformID=1) strings.
-• Like Source Han Serif, the Regular weight is now style-linked to the Bold weight. This means that the Bold weight may not appear in the font menu, particularly when using applications that support style-linking as a way to make text bold.
-• Like Source Han Serif, the 'vert' GPOS feature is included.
-• Like Source Han Serif, the deprecated 'hngl' (Hangul) GSUB feature is not included in the Korean fonts and font instances.
+Version 2.001
+Build Date: April 4, 2019. Built By: Dr. Ken Lunde (小林劍󠄁). Release Date: April 9, 2019.
 
-
-Known Issues
-Please report all issues in the GitHub repository so that they can be properly tracked and addressed, and for greater visibility among the user community. The Wiki also conveys some useful information about upcoming releases. Also, be sure to thoroughly check the closed issues prior to submitting a new issue, being sure to exercise the search feature.
-Because these fonts exercise several architectural limits, particularly the ones that include 65,535 glyphs, some environments may have difficulties using them properly, sometimes due to implementation limits or poor assumptions. If this is the case, please report such issues so that they can be recorded and tracked. You are also strongly encouraged to contact the developer of such environments to report the same.
-
-General
-• While not an issue per se, all of the fonts include placeholder (aka blank) glyphs for U+32FF, uni32FF (CID+2184) and uni32FF-V (CID+65359), which is the code point that has been reserved for the two-ideo- graph square ligature form of the name of Japan’s forthcoming new era that takes effect on 2019-05-01. U+32FF is expected to be included in Unicode Version 12.1. The purpose of including the placeholder glyphs is to facilitate a dot-release shortly after the official announcement of the era name is made.
-• The glyphs for the four CJK Unified Ideographs Extension G ideographs, which are made accessible via the 'ccmp' GSUB feature using their IDSes, will be mapped from the appropriate Plane 3 code points as soon as their code points have been deemed stable enough to implement.
-
+Listed below are the changes that were made in this release:
+• The copyright year was changed from “2014, 2015, 2018” to the range “2014–2019.”
+• The placeholder (aka blank) glyphs for U+32FF ㋿, uni32FF-JP (CID+2184) and uni32FF-JP-V (CID+65359),
+which is the code point that represents the two-ideograph square ligature form of the name of Japan’s
+forthcoming new era, 令和 (reiwa), that takes effect on 2019-05-01, are now the actual glyphs. U+32FF will
+be included in Unicode Version 12.1 (2019-05-07).
+• All of the mapping changes that were made to the fonts in this release are provided in the table at the beginning of Issue #202.
+• All of the glyph corrections that were made to the fonts in this release are provided in the table at the beginning of Issue #204.
+• All of the glyphs that were redesigned in this release are provided in the table at the beginning of Issue #205.
+• The 45 glyphs that were added in this release, which replaced 45 of the 50 reserved glyphs, are provided in
+the table at the beginning of Issue #206. The glyphs are at CIDs 65485 through 65529. Two of the new glyphs
+are mapped from code points that are now supported.
+• Miscellaneous changes that were made in this release are provided in the table at the beginning of Issue #207.
+• The following 33 glyphs for ideographs are no longer used, and are expected to be removed in Version 3.000
+(currently unplanned and unscheduled): uni58A6-TW (CID+13852), uni5B0F-TW (CID+15204), uni5B38-TW
+(CID+15300), uni5D45-TW (CID+16313), uni5D93-TW (CID+16476), uni5E61-TW (CID+16819), uni61BE-TW
+(CID+18366), uni64BC-TW (CID+19658), uni6937-TW (CID+21605), uni69F9-CN (CID+21965), uni7158-TW
+(CID+25284), uni71D4-TW (CID+25554), uni720B-JP (CID+25667), uni756A-TW (CID+27154), uni7690-CN
+(CID+27719), uni78FB-TW (CID+28713), uni7BB4-TW (CID+30074), uni7C53-TW (CID+30421), uni7DD8-TW
+(CID+31252), uni7E59-TW (CID+31534), uni7FB3-TW (CID+32075), uni81B0-TW (CID+33147), uni8543-TW
+(CID+35181), uni85E9-TW (CID+35584), uni87E0-TW (CID+36504), uni8B52-TW (CID+38257), uni8B85-TW
+(CID+38372), uni8E6F-TW (CID+39481), uni8F53-TW (CID+39883), uni8F57-TW (CID+39895), uni9407-TW
+(CID+42337), uni9C55-TW (CID+45975), and u24A01-KR (CID+60576).
+• The seven per-weight glyph synopsis PDFs now include 2,090 pages, with the first 132 pages showing all
+65,535 glyphs indexed by CID.
 
 Noto Serif CJK is licensed under the SIL Open Font License, Version 1.1.
 
