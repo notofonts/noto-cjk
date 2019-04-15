@@ -15,13 +15,13 @@ Listed below are the changes that were made in this release:
 which is the code point that represents the two-ideograph square ligature form of the name of Japan’s
 forthcoming new era, 令和 (reiwa), that takes effect on 2019-05-01, are now the actual glyphs. U+32FF will
 be included in Unicode Version 12.1 (2019-05-07).
-• All of the mapping changes that were made to the fonts in this release are provided in the table at the beginning of Issue #202.
+• All of the mapping changes that were made to the fonts in this release are provided in the table at the beginning of Issue #202 <https://github.com/adobe-fonts/source-han-sans/issues/202>.
 • All of the glyph corrections that were made to the fonts in this release are provided in the table at the beginning of Issue #204.
-• All of the glyphs that were redesigned in this release are provided in the table at the beginning of Issue #205.
+• All of the glyphs that were redesigned in this release are provided in the table at the beginning of Issue #205 <https://github.com/adobe-fonts/source-han-sans/issues/205>.
 • The 45 glyphs that were added in this release, which replaced 45 of the 50 reserved glyphs, are provided in
 the table at the beginning of Issue #206. The glyphs are at CIDs 65485 through 65529. Two of the new glyphs
 are mapped from code points that are now supported.
-• Miscellaneous changes that were made in this release are provided in the table at the beginning of Issue #207.
+• Miscellaneous changes that were made in this release are provided in the table at the beginning of Issue #207 <https://github.com/adobe-fonts/source-han-sans/issues/207>.
 • The following 33 glyphs for ideographs are no longer used, and are expected to be removed in Version 3.000
 (currently unplanned and unscheduled): uni58A6-TW (CID+13852), uni5B0F-TW (CID+15204), uni5B38-TW
 (CID+15300), uni5D45-TW (CID+16313), uni5D93-TW (CID+16476), uni5E61-TW (CID+16819), uni61BE-TW
@@ -35,6 +35,6 @@ are mapped from code points that are now supported.
 • The seven per-weight glyph synopsis PDFs now include 2,090 pages, with the first 132 pages showing all
 65,535 glyphs indexed by CID.
 
-Noto Serif CJK is licensed under the SIL Open Font License, Version 1.1.
+Noto Sans CJK is licensed under the SIL Open Font License, Version 1.1.
 
 See HISTORY for prior release notes.
