@@ -47,6 +47,10 @@ weights).
 Each language also provides Monospace variants in Regular and Bold. There are 10
 of these files (5 language default variants * 2 weights).
 
+### Variable Multilingual OTF
+This form has the same fonts as Multilingual OTF packaged as 10 variable fonts. 
+The Monospace variants are packaged as 5 separate variable fonts with a range from Regular to Bold.
+
 ### Region-specific OTF
 This packaging form provides monolingual subset versions of the fonts. There is
 a separate font file for each of Simplified Chinese, Traditional Chinese, Traditional Chinese HK,
@@ -57,3 +61,6 @@ It would also be the choice if you want to use the font on a system
 ‘locl’ feature to select language.
 
 The region-specific OTFs do not include the Monospace versions.
+
+### Variable Region-specific OTF
+This form has the same fonts as the Region-specific OTF packaged as 5 variable fonts.
