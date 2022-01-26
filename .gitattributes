@@ -1,0 +1,7 @@
+# Ignore files when creating a Release so we can control how we attach the assets
+.gitattributes export-ignore
+.gitignore export-ignore
+
+# Exclude everything so that we can control release assets instead of making a single zip file
+# with both Sans and Serif 
+*.* export-ignore

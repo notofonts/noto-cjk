@@ -1,4 +1,4 @@
-# Noto CJK
+# Noto Sans CJK
 Noto CJK is available in multiple formats which have different uses. Each of
 these font formats used below has the capability to display both horizontal
 and vertical forms where appropriate. Any of the fonts that support
@@ -8,7 +8,7 @@ Note: 'Monospace' versions provide half-width instead of proportional widths
 for ASCII (U+0020 to U+007E) and the following characters: U+00A0, U+00A5, 
 U+2011, and U+20A9. These come in two weights (Regular and Bold) for each of 
 the five languages. These fonts have 'Mono' in the family name, e.g. 
-'Noto Sans Mono CJK {HK, JP, KR, SC, TC}'.
+'Noto Sans Mono CJK {hk, jp, kr, sc, tc}'.
 
 
 ### Variable OTCs
