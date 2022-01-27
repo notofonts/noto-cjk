@@ -1,5 +1,4 @@
-# noto-cjk
-Noto CJK fonts
+# Noto CJK fonts
 
 Download individual fonts from the download guides for [Noto Sans CJK](https://github.com/googlefonts/noto-cjk/tree/main/Sans#downloading-noto-sans-cjk) or [Noto Serif CJK](https://github.com/googlefonts/noto-cjk/tree/main/Serif#downloading-noto-serif-cjk) or look in [Releases](https://github.com/googlefonts/noto-cjk/releases)
 
