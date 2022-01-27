@@ -1,4 +1,6 @@
-### Noto Sans CJK 2.004 Release Notes
+## Noto Sans CJK Release Notes
+## 2.004
+
 April 28, 2021
 
 Release Date: April 28, 2021.
@@ -17,4 +19,4 @@ Update to 2.004
 
 Both Noto Sans CJK and Noto Serif CJK are licensed under the SIL Open Font License, Version 1.1.
 
-See HISTORY for prior release notes.
+See [HISTORY](HISTORY.md) for prior release notes.

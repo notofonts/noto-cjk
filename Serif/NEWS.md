@@ -1,5 +1,5 @@
-Noto Serif CJK 2.001 Release Notes
-==================================
+## Noto Serif CJK Release Notes
+## 2.001
 
 January 26, 2022
 
