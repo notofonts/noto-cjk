@@ -10,21 +10,21 @@ VERSION=2.001
 echo "Download individual assets from below or through the download [guide](https://github.com/googlefonts/noto-cjk/tree/main/Serif#downloading-noto-serif-cjk)." > Serif/git-release-notes.md
 
 cd Serif
-zip -r -v 02_NotoSerifCJK-OTF-VF.zip Variable/OTF Variable/OTC/NotoSerifCJK-VF.otf.ttc ../LICENSE --exclude "*.zip" "*.DS_Store"
-zip -r -v 03_NotoSerifCJK-TTF-VF.zip Variable/TTF Variable/OTC/NotoSerifCJK-VF.ttf.ttc ../LICENSE --exclude "*.zip" "*.DS_Store"
-zip -r -v 04_NotoSerifCJKOTC.zip OTC ../LICENSE --exclude "*.zip" "*.DS_Store" "OTC/NotoSerifCJK.ttc"
-zip -r -v 05_NotoSerifCJKOTF.zip OTF ../LICENSE --exclude "*.zip" "*.DS_Store"
-zip -r -v 06_NotoSerifCJKSubsetOTF.zip SubsetOTF ../LICENSE --exclude "*.zip" "*.DS_Store"
-zip -r -v 07_NotoSerifCJKjp.zip OTF/Japanese ../LICENSE --exclude "*.zip" "*.DS_Store"
-zip -r -v 08_NotoSerifCJKkr.zip OTF/Korean ../LICENSE --exclude "*.zip" "*.DS_Store"
-zip -r -v 09_NotoSerifCJKsc.zip OTF/SimplifiedChinese ../LICENSE --exclude "*.zip" "*.DS_Store"
-zip -r -v 10_NotoSerifCJKtc.zip OTF/TraditionalChinese ../LICENSE --exclude "*.zip" "*.DS_Store"
-zip -r -v 11_NotoSerifCJKhk.zip OTF/TraditionalChineseHK ../LICENSE --exclude "*.zip" "*.DS_Store"
-zip -r -v 12_NotoSerifJP.zip SubsetOTF/JP ../LICENSE --exclude "*.zip" "*.DS_Store"
-zip -r -v 13_NotoSerifKR.zip SubsetOTF/KR ../LICENSE --exclude "*.zip" "*.DS_Store"
-zip -r -v 14_NotoSerifSC.zip SubsetOTF/SC ../LICENSE --exclude "*.zip" "*.DS_Store"
-zip -r -v 15_NotoSerifTC.zip SubsetOTF/TC ../LICENSE --exclude "*.zip" "*.DS_Store"
-zip -r -v 16_NotoSerifHK.zip SubsetOTF/HK ../LICENSE --exclude "*.zip" "*.DS_Store"
+zip -r -v 02_NotoSerifCJK-OTF-VF.zip Variable/OTF Variable/OTC/NotoSerifCJK-VF.otf.ttc LICENSE --exclude "*.zip" "*.DS_Store"
+zip -r -v 03_NotoSerifCJK-TTF-VF.zip Variable/TTF Variable/OTC/NotoSerifCJK-VF.ttf.ttc LICENSE --exclude "*.zip" "*.DS_Store"
+zip -r -v 04_NotoSerifCJKOTC.zip OTC LICENSE --exclude "*.zip" "*.DS_Store" "OTC/NotoSerifCJK.ttc"
+zip -r -v 05_NotoSerifCJKOTF.zip OTF LICENSE --exclude "*.zip" "*.DS_Store"
+zip -r -v 06_NotoSerifCJKSubsetOTF.zip SubsetOTF LICENSE --exclude "*.zip" "*.DS_Store"
+zip -r -v 07_NotoSerifCJKjp.zip OTF/Japanese LICENSE --exclude "*.zip" "*.DS_Store"
+zip -r -v 08_NotoSerifCJKkr.zip OTF/Korean LICENSE --exclude "*.zip" "*.DS_Store"
+zip -r -v 09_NotoSerifCJKsc.zip OTF/SimplifiedChinese LICENSE --exclude "*.zip" "*.DS_Store"
+zip -r -v 10_NotoSerifCJKtc.zip OTF/TraditionalChinese LICENSE --exclude "*.zip" "*.DS_Store"
+zip -r -v 11_NotoSerifCJKhk.zip OTF/TraditionalChineseHK LICENSE --exclude "*.zip" "*.DS_Store"
+zip -r -v 12_NotoSerifJP.zip SubsetOTF/JP LICENSE --exclude "*.zip" "*.DS_Store"
+zip -r -v 13_NotoSerifKR.zip SubsetOTF/KR LICENSE --exclude "*.zip" "*.DS_Store"
+zip -r -v 14_NotoSerifSC.zip SubsetOTF/SC LICENSE --exclude "*.zip" "*.DS_Store"
+zip -r -v 15_NotoSerifTC.zip SubsetOTF/TC LICENSE --exclude "*.zip" "*.DS_Store"
+zip -r -v 16_NotoSerifHK.zip SubsetOTF/HK LICENSE --exclude "*.zip" "*.DS_Store"
 
 # The Serif SuperOTC is too large to store on GitHub without LFS so we expect it to 
 # be created locally first and then we can attach it as a release asset
