@@ -64,10 +64,10 @@ def rename(ttfont):
         if isinstance(name.string, bytes):
             name.string = name.string.decode("utf-16-be")
             name.string = re.sub("CJK\s*", "", name.string)
-            name.string = re.sub(r"NotoSans\w\w", lambda x:x[0][0:-2]+x[0][-2:].upper(), name.string).encode("utf-16-be")
+            name.string = re.sub(r"Noto(?:Sans|Serif)\w\w", lambda x:x[0][0:-2]+x[0][-2:].upper(), name.string).encode("utf-16-be")
         else:
             name.string = re.sub("CJK\s*", "", name.string)
-            name.string = re.sub(r"NotoSans\w\w", lambda x:x[0][0:-2]+x[0][-2:].upper(), name.string)
+            name.string = re.sub(r"Noto(?:Sans|Serif)\w\w", lambda x:x[0][0:-2]+x[0][-2:].upper(), name.string)
 
 for font in args.fonts:
     ttfont = TTFont(font)
