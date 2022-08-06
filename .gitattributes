@@ -4,4 +4,7 @@
 
 # Exclude everything so that we can control release assets instead of making a single zip file
 # with both Sans and Serif 
-*.* export-ignore
+Sans export-ignore
+Serif export-ignore
+google-fonts export-ignore
+*.sh export-ignore
