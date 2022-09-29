@@ -7,6 +7,8 @@ import argparse
 import re
 import os
 
+HOTFIX_NUMBER = 1
+
 parser = argparse.ArgumentParser(description='Hotfix Noto CJK VF TTFs to Google Fonts standard')
 parser.add_argument('--output-dir', default=".",
                     help='output directory')
@@ -59,6 +61,10 @@ def build_fvar(ttfont):
 def fix_copyright(ttfont):
     ttfont["name"].setName(ttfont["name"].getName(0,3,1).toUnicode().replace("©", "(c)"), 0, 3, 1, 0x409)
 
+def fix_version(ttfont):
+    ttfont["name"].setName(ttfont["name"].getName(5,3,1).toUnicode().replace(";hotconv", f"-H{HOTFIX_NUMBER};hotconv"), 5, 3, 1, 0x409)
+
+
 def rename(ttfont):
     for name in ttfont["name"].names:
         if isinstance(name.string, bytes):
@@ -75,6 +81,7 @@ for font in args.fonts:
     build_fvar(ttfont)
     gen_stat_tables([ttfont], ["wght"], {"wght": [400]})
     fix_copyright(ttfont)
+    fix_version(ttfont)
     fix_unhinted_font(ttfont)
     rename(ttfont)
     if "DSIG" in ttfont:
