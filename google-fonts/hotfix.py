@@ -1,8 +1,11 @@
 from gftools.util.google_fonts import _KNOWN_WEIGHTS
-from gftools.stat import gen_stat_tables
-from gftools.fix import fix_unhinted_font
+from gftools.fix import fix_font
+from axisregistry import build_name_table, build_fvar_instances, build_stat
 from fontTools.ttLib import TTFont
 from fontTools.ttLib.tables._f_v_a_r import NamedInstance
+from gftools.constants import  NAMEID_FONT_SUBFAMILY_NAME, NAMEID_TYPOGRAPHIC_SUBFAMILY_NAME
+from fontbakery.profiles.googlefonts import com_google_fonts_check_font_names
+from fontbakery.profiles.googlefonts_conditions import expected_font_names
 import argparse
 import re
 import os
@@ -47,17 +50,6 @@ def scratch_font(ttfont):
         ttfont["name"].removeNames(name_id)
     fvar.instances = []
 
-def build_fvar(ttfont):
-    fvar = ttfont["fvar"]
-    psname = ttfont["name"].getName(6,3,1).toUnicode()
-    base_psname = re.sub("-.*", "", psname)
-    for name, weight in _KNOWN_WEIGHTS.items():
-        instance = NamedInstance()
-        instance.postscriptNameID = ttfont["name"].addName(base_psname+"-"+name)
-        instance.subfamilyNameID = ttfont["name"].addName(name)
-        instance.coordinates = { "wght": weight }
-        fvar.instances.append(instance)
-
 def fix_copyright(ttfont):
     ttfont["name"].setName(ttfont["name"].getName(0,3,1).toUnicode().replace("©", "(c)"), 0, 3, 1, 0x409)
 
@@ -75,20 +67,23 @@ def rename(ttfont):
             name.string = re.sub("CJK\s*", "", name.string)
             name.string = re.sub(r"Noto(?:Sans|Serif)\w\w", lambda x:x[0][0:-2]+x[0][-2:].upper(), name.string)
 
+
 for font in args.fonts:
     ttfont = TTFont(font)
-    scratch_font(ttfont)
-    build_fvar(ttfont)
-    gen_stat_tables([ttfont], ["wght"], {"wght": [400]})
     fix_copyright(ttfont)
     fix_version(ttfont)
-    fix_unhinted_font(ttfont)
+    fix_font(ttfont, include_source_fixes=True)
     rename(ttfont)
+    build_name_table(ttfont, siblings=[])
+    build_fvar_instances(ttfont)
+    build_stat(ttfont, [])
+    ttfont["name"].removeNames(NAMEID_TYPOGRAPHIC_SUBFAMILY_NAME)
+    ttfont["name"].removeNames(NAMEID_FONT_SUBFAMILY_NAME)
     if "DSIG" in ttfont:
         del ttfont["DSIG"]
+
     axis_tags = sorted([ax.axisTag for ax in ttfont["fvar"].axes])
     axis_tags = ",".join(axis_tags)
     newname = os.path.basename(font).replace("-VF.ttf", "[%s].ttf" % axis_tags)
     newname = re.sub("CJK(..)", lambda x:x[0][-2:].upper(), newname)
-    
     ttfont.save(os.path.join(args.output_dir, newname))
