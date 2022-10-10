@@ -12,6 +12,8 @@ import os
 
 HOTFIX_NUMBER = 1
 
+OFL_DESCRIPTION = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL"
+
 parser = argparse.ArgumentParser(description='Hotfix Noto CJK VF TTFs to Google Fonts standard')
 parser.add_argument('--output-dir', default=".",
                     help='output directory')
@@ -52,6 +54,7 @@ def scratch_font(ttfont):
 
 def fix_copyright(ttfont):
     ttfont["name"].setName(ttfont["name"].getName(0,3,1).toUnicode().replace("©", "(c)"), 0, 3, 1, 0x409)
+    ttfont["name"].setName(OFL_DESCRIPTION, 13, 3, 1, 0x409)
 
 def fix_version(ttfont):
     ttfont["name"].setName(ttfont["name"].getName(5,3,1).toUnicode().replace(";hotconv", f"-H{HOTFIX_NUMBER};hotconv"), 5, 3, 1, 0x409)
@@ -77,8 +80,6 @@ for font in args.fonts:
     build_name_table(ttfont, siblings=[])
     build_fvar_instances(ttfont)
     build_stat(ttfont, [])
-    ttfont["name"].removeNames(NAMEID_TYPOGRAPHIC_SUBFAMILY_NAME)
-    ttfont["name"].removeNames(NAMEID_FONT_SUBFAMILY_NAME)
     if "DSIG" in ttfont:
         del ttfont["DSIG"]
 
