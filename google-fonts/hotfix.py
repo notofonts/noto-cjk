@@ -9,7 +9,7 @@ requirements. The following hotfixes are made:
 * Replace the copyright sign © in the name table with ASCII '(c)'.
 * Rename the variable fonts using the GF Family[axes].ttf format.
 * Run various other source fixes using gftools.fix.
-* Restore the correct hhea ascent = 1160.
+* Restore the correct hhea ascent = 1160 and descent = -288.
 """
 
 from gftools.util.google_fonts import _KNOWN_WEIGHTS
@@ -96,6 +96,7 @@ def fix_version(ttfont):
 
 def fix_hhea_ascent(ttfont):
     ttfont["hhea"].ascender = 1160
+    ttfont["hhea"].descent = -288
 
 
 for font in args.fonts:
