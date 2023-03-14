@@ -94,9 +94,13 @@ def fix_version(ttfont):
     )
 
 
-def fix_hhea_ascent(ttfont):
-    ttfont["hhea"].ascender = 1160
-    ttfont["hhea"].descent = -288
+def fix_hhea_ascent(ttfont, sans=True):
+    if sans:
+        ttfont["hhea"].ascender = 1160
+        ttfont["hhea"].descent = -288
+    else:
+        ttfont["hhea"].ascender = 1151
+        ttfont["hhea"].descent = -286
 
 
 for font in args.fonts:
@@ -104,7 +108,7 @@ for font in args.fonts:
     scratch_font(ttfont)
     fix_copyright(ttfont)
     fix_version(ttfont)
-    fix_hhea_ascent(ttfont)
+    fix_hhea_ascent(ttfont, "Sans" in font)
     fix_font(ttfont, include_source_fixes=True)
     build_name_table(ttfont, siblings=[])
     build_fvar_instances(ttfont)
