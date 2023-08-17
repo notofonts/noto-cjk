@@ -1,4 +1,4 @@
 # Ignore the files too large for GitHub so we don't accidentally add them
 # These are attached as release assets so we still want to create the files locally
-Serif/NotoSerifCJK.ttc.zip
+Serif/SuperOTC/NotoSerifCJK.ttc.zip
 Serif/OTC/NotoSerifCJK.ttc
