@@ -109,7 +109,7 @@ for font in args.fonts:
     fix_copyright(ttfont)
     fix_version(ttfont)
     fix_hhea_ascent(ttfont, "Sans" in font)
-    fix_font(ttfont, include_source_fixes=True)
+    ttfont = fix_font(ttfont, include_source_fixes=True)
     build_name_table(ttfont, siblings=[])
     build_fvar_instances(ttfont)
     build_stat(ttfont, [])
