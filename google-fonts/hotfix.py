@@ -34,12 +34,22 @@ OFL_DESCRIPTION = "This Font Software is licensed under the SIL Open Font Licens
 parser = argparse.ArgumentParser(
     description="Hotfix Noto CJK VF TTFs to Google Fonts standard"
 )
-parser.add_argument("--output-dir", default=".", help="output directory")
+parser.add_argument("--output-dir", help="output directory")
+parser.add_argument("-o", help="output file name")
 parser.add_argument("fonts", metavar="N", type=str, nargs="+", help="fonts to fix")
 
 args = parser.parse_args()
 
-if not os.path.exists(args.output_dir):
+if len(args.fonts) > 1 and args.o:
+    raise ValueError("Cannot specify -o with multiple input files")
+
+if args.o and args.output_dir:
+    raise ValueError("Cannot specify -o with --output-dir")
+
+if not args.output_dir:
+    args.output_dir = "."
+
+if args.output_dir and not os.path.exists(args.output_dir):
     os.makedirs(args.output_dir)
 
 if "" in _KNOWN_WEIGHTS:
@@ -118,6 +128,10 @@ for font in args.fonts:
 
     axis_tags = sorted([ax.axisTag for ax in ttfont["fvar"].axes])
     axis_tags = ",".join(axis_tags)
-    newname = os.path.basename(font).replace("-VF.ttf", "[%s].ttf" % axis_tags)
-    newname = re.sub("CJK(..)", lambda x: x[0][-2:].upper(), newname)
-    ttfont.save(os.path.join(args.output_dir, newname))
+    if args.o:
+        newname = args.o
+    else:
+        newname = os.path.basename(font).replace("-VF.ttf", "[%s].ttf" % axis_tags)
+        newname = re.sub("CJK(..)", lambda x: x[0][-2:].upper(), newname)
+        newname = os.path.join(args.output_dir, newname)
+    ttfont.save(newname)
