@@ -21,8 +21,6 @@ from gftools.constants import (
     NAMEID_FONT_SUBFAMILY_NAME,
     NAMEID_TYPOGRAPHIC_SUBFAMILY_NAME,
 )
-from fontbakery.profiles.googlefonts import com_google_fonts_check_font_names
-from fontbakery.profiles.googlefonts_conditions import expected_font_names
 import argparse
 import re
 import os
