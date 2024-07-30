@@ -1,4 +1,4 @@
-URL: https://github.com/googlefonts/noto-cjk
+URL: https://github.com/notofonts/noto-cjk
 
 Version: 1.002 or later
 
@@ -19,5 +19,5 @@ The fonts in this directory are developed by Google and Adobe and are
 released as open source under the Apache license version 2.0. The copyright
 is held by Adobe, while the trademarks on the names are held by Google.
 
-A [README-formats](README-formats.md) file has been added explaining the different formats
+A proper [README](README.md) file has been added explaining the different formats
 provided and their features and limitations.
