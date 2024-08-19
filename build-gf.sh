@@ -1,4 +1,11 @@
 #!/bin/sh
+if ! add-chws --help > /dev/null; then
+    echo "Requires add-chws (pip install chws_tool)"; exit 1
+fi
+# fontmake woff2.compress doesn't compress whole TTCs
+if ! which woff2_compress > /dev/null; then
+    echo "Requires woff2_compress (brew install woff2)"; exit 1
+fi
 STYLE=ttf
 
 echo "Building for Google Fonts"
