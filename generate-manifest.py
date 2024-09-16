@@ -113,25 +113,6 @@ def source_to_file(filename):
     return file.get_file()
 
 
-def relates(source, target, relationship):
-    relationships.append(
-        {
-            "source": source,
-            "source_id": file_id(source),
-            "target": target,
-            "target_id": file_id(target),
-            "target_type": "file",
-            "type": relationship,
-        }
-    )
-
-
-def file_relates(sbom, source, target, relationship):
-    target_ident = sbom.bom.file_ident(sbom._get_element(target, file_id(target)))
-    source_ident = sbom.bom.file_ident(sbom._get_element(source, file_id(source)))
-    sbom.bom.generateRelationship(source_ident, target_ident, " " + relationship + " ")
-
-
 # Build a basic SBOM just from the Python packages
 sbom_scan = SBOMScanner(False, False, False, False)
 sbom_scan.process_requirements("requirements.txt")
@@ -171,10 +152,6 @@ files.update(ours)
 sbom.add_files(files)
 
 # Packages
-# hotfix.py depends on all our python packages
-for package in packages.keys():
-    relates(package[0], "google-fonts/hotfix.py", "RUNTIME_DEPENDENCY_OF")
-
 # We also used Harfbuzz
 harfbuzz = SBOMPackage()
 harfbuzz.initialise()
@@ -184,17 +161,13 @@ version = re.search(r"(\d+\.\d+\.\d+)", version.decode("utf8"))[0]
 harfbuzz.set_version(version)
 harfbuzz.set_licenseconcluded("MIT")
 harfbuzz.set_homepage("https://github.com/harfbuzz/harfbuzz/")
-packages["harfbuzz"] = harfbuzz.get_package()
+packages[("harfbuzz", version)] = harfbuzz.get_package()
 # and woff2
-packages["woff2"] = homebrew_package("woff2")
+woff2 = homebrew_package("woff2")
+packages[("woff2", woff2["version"])] = woff2
 
 sbom.add_packages(packages)
 sbom.add_relationships(relationships)
-
-with open("build-gf.sh") as f:
-    for line in f:
-        if m := re.search("# SBOM-Depends: (.*)", line):
-            relates(m[1], "build-gf.sh", "RUNTIME_DEPENDENCY_OF")
 
 sbom_gen.generate(
     project_name="noto-cjk" + ("-DRAFT" if DRAFT else " "),
@@ -202,15 +175,56 @@ sbom_gen.generate(
     send_to_output=False,
 )
 
-# lib4sbom does not support file->file relationships, dig into the object
+# lib4sbom does not support file->file relationships, so we have to
+# add them manually
+sbom_gen.sbom_complete = False
+
+
+def relates(sbom, source, target, relationship):
+    if os.path.isfile(source):
+        source_ident = sbom.bom.file_ident(sbom._get_element(source, file_id(source)))
+    elif source == "-":  # This document
+        source_ident = sbom.bom.SPDX_PROJECT_ID
+    else:
+        source_ident = sbom.bom.package_ident(
+            sbom._get_element(source, file_id(source))
+        )
+    if os.path.isfile(target):
+        target_ident = sbom.bom.file_ident(sbom._get_element(target, file_id(target)))
+    else:
+        target_ident = sbom.bom.package_ident(
+            sbom._get_element(target, file_id(target))
+        )
+    sbom_gen.bom.generateRelationship(
+        source_ident,
+        target_ident,
+        " " + relationship + " ",
+    )
+
+
+# hotfix.py depends on all our python packages
+for package in packages.keys():
+    if "sbom" in package:
+        continue
+    relates(sbom_gen, package[0], "google-fonts/hotfix.py", "RUNTIME_DEPENDENCY_OF")
+
+with open("build-gf.sh") as f:
+    for line in f:
+        if m := re.search("# SBOM-Depends: (.*)", line):
+            relates(sbom_gen, m[1], "build-gf.sh", "RUNTIME_DEPENDENCY_OF")
+
+for original in adobe.keys():
+    relates(sbom_gen, "-", original, "DESCRIBES")
+
 for original in glob.glob("S*/Variable/*/Subset/*.ttf"):
     modified = os.path.basename(original).replace("-VF.ttf", "[wght].ttf")
     modified = "google-fonts/" + re.sub(
         "CJK(..)", lambda x: x[0][-2:].upper(), modified
     )
-    file_relates(sbom_gen, modified, original, "MODIFIED_FROM")
-    file_relates(sbom_gen, modified, "build-gf.sh", "GENERATED_FROM")
+    relates(sbom_gen, modified, original, "FILE_MODIFIED")
+    relates(sbom_gen, modified, "build-gf.sh", "GENERATED_FROM")
+    relates(sbom_gen, "-", modified, "DESCRIBES")
 
-
+sbom_gen.bom.showRelationship()
 sbom_out = SBOMOutput("manifest.spdx.json", output_format="json")
 sbom_out.generate_output(sbom_gen.sbom)

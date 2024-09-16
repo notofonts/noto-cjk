@@ -6,12 +6,12 @@
     "creators": [
       "Tool: /Users/simon/others-repos/noto-cjk/generate-manifest.py-0.0.1"
     ],
-    "created": "2024-09-16T11:47:51Z",
+    "created": "2024-09-16T12:21:15Z",
     "licenseListVersion": "3.22"
   },
   "name": "noto-cjk-DRAFT",
   "dataLicense": "CC0-1.0",
-  "documentNamespace": "http://spdx.org/spdxdocs/noto-cjk-DRAFT-0680d5db-eb22-4b98-86ac-aa28281e654c",
+  "documentNamespace": "http://spdx.org/spdxdocs/noto-cjk-DRAFT-119d573c-cafe-4c01-a73a-051fe81213ce",
   "files": [
     {
       "SPDXID": "SPDXRef-File-Serif-Variable-OTC-NotoSerifCJK-VF.otf.ttc",
@@ -6424,6 +6424,1261 @@
   ],
   "relationships": [
     {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Mono-NotoSansMonoCJKhk-Bold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Mono-NotoSansMonoCJKhk-Regular.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Mono-NotoSansMonoCJKjp-Bold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Mono-NotoSansMonoCJKjp-Regular.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Mono-NotoSansMonoCJKkr-Bold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Mono-NotoSansMonoCJKkr-Regular.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Mono-NotoSansMonoCJKsc-Bold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Mono-NotoSansMonoCJKsc-Regular.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Mono-NotoSansMonoCJKtc-Bold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Mono-NotoSansMonoCJKtc-Regular.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTC-NotoSansCJK-Black.ttc",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTC-NotoSansCJK-Bold.ttc",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTC-NotoSansCJK-DemiLight.ttc",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTC-NotoSansCJK-Light.ttc",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTC-NotoSansCJK-Medium.ttc",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTC-NotoSansCJK-Regular.ttc",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTC-NotoSansCJK-Thin.ttc",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-Japanese-NotoSansCJKjp-Black.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-Japanese-NotoSansCJKjp-Bold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-Japanese-NotoSansCJKjp-DemiLight.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-Japanese-NotoSansCJKjp-Light.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-Japanese-NotoSansCJKjp-Medium.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-Japanese-NotoSansCJKjp-Regular.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-Japanese-NotoSansCJKjp-Thin.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-Korean-NotoSansCJKkr-Black.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-Korean-NotoSansCJKkr-Bold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-Korean-NotoSansCJKkr-DemiLight.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-Korean-NotoSansCJKkr-Light.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-Korean-NotoSansCJKkr-Medium.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-Korean-NotoSansCJKkr-Regular.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-Korean-NotoSansCJKkr-Thin.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-SimplifiedChinese-NotoSansCJKsc-Black.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-SimplifiedChinese-NotoSansCJKsc-Bold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-SimplifiedChinese-NotoSansCJKsc-DemiLight.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-SimplifiedChinese-NotoSansCJKsc-Light.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-SimplifiedChinese-NotoSansCJKsc-Medium.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-SimplifiedChinese-NotoSansCJKsc-Regular.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-SimplifiedChinese-NotoSansCJKsc-Thin.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-TraditionalChinese-NotoSansCJKtc-Black.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-TraditionalChinese-NotoSansCJKtc-Bold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-TraditionalChinese-NotoSansCJKtc-DemiLight.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-TraditionalChinese-NotoSansCJKtc-Light.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-TraditionalChinese-NotoSansCJKtc-Medium.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-TraditionalChinese-NotoSansCJKtc-Regular.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-TraditionalChinese-NotoSansCJKtc-Thin.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-TraditionalChineseHK-NotoSansCJKhk-Black.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-TraditionalChineseHK-NotoSansCJKhk-Bold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-TraditionalChineseHK-NotoSansCJKhk-DemiLight.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-TraditionalChineseHK-NotoSansCJKhk-Light.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-TraditionalChineseHK-NotoSansCJKhk-Medium.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-TraditionalChineseHK-NotoSansCJKhk-Regular.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-OTF-TraditionalChineseHK-NotoSansCJKhk-Thin.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-HK-NotoSansHK-Black.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-HK-NotoSansHK-Bold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-HK-NotoSansHK-DemiLight.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-HK-NotoSansHK-Light.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-HK-NotoSansHK-Medium.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-HK-NotoSansHK-Regular.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-HK-NotoSansHK-Thin.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-JP-NotoSansJP-Black.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-JP-NotoSansJP-Bold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-JP-NotoSansJP-DemiLight.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-JP-NotoSansJP-Light.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-JP-NotoSansJP-Medium.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-JP-NotoSansJP-Regular.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-JP-NotoSansJP-Thin.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-KR-NotoSansKR-Black.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-KR-NotoSansKR-Bold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-KR-NotoSansKR-DemiLight.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-KR-NotoSansKR-Light.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-KR-NotoSansKR-Medium.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-KR-NotoSansKR-Regular.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-KR-NotoSansKR-Thin.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-SC-NotoSansSC-Black.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-SC-NotoSansSC-Bold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-SC-NotoSansSC-DemiLight.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-SC-NotoSansSC-Light.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-SC-NotoSansSC-Medium.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-SC-NotoSansSC-Regular.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-SC-NotoSansSC-Thin.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-TC-NotoSansTC-Black.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-TC-NotoSansTC-Bold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-TC-NotoSansTC-DemiLight.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-TC-NotoSansTC-Light.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-TC-NotoSansTC-Medium.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-TC-NotoSansTC-Regular.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-SubsetOTF-TC-NotoSansTC-Thin.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-OTC-NotoSansCJK-VF.otf.ttc",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-OTC-NotoSansCJK-VF.ttf.ttc",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-OTC-NotoSansMonoCJK-VF.otf.ttc",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-OTC-NotoSansMonoCJK-VF.ttf.ttc",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-OTF-Mono-NotoSansMonoCJKhk-VF.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-OTF-Mono-NotoSansMonoCJKjp-VF.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-OTF-Mono-NotoSansMonoCJKkr-VF.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-OTF-Mono-NotoSansMonoCJKsc-VF.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-OTF-Mono-NotoSansMonoCJKtc-VF.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-OTF-NotoSansCJKhk-VF.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-OTF-NotoSansCJKjp-VF.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-OTF-NotoSansCJKkr-VF.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-OTF-NotoSansCJKsc-VF.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-OTF-NotoSansCJKtc-VF.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-OTF-Subset-NotoSansHK-VF.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-OTF-Subset-NotoSansJP-VF.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-OTF-Subset-NotoSansKR-VF.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-OTF-Subset-NotoSansSC-VF.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-OTF-Subset-NotoSansTC-VF.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-TTF-Mono-NotoSansMonoCJKhk-VF.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-TTF-Mono-NotoSansMonoCJKjp-VF.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-TTF-Mono-NotoSansMonoCJKkr-VF.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-TTF-Mono-NotoSansMonoCJKsc-VF.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-TTF-Mono-NotoSansMonoCJKtc-VF.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-TTF-NotoSansCJKhk-VF.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-TTF-NotoSansCJKjp-VF.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-TTF-NotoSansCJKkr-VF.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-TTF-NotoSansCJKsc-VF.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-TTF-NotoSansCJKtc-VF.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-TTF-Subset-NotoSansHK-VF.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-TTF-Subset-NotoSansJP-VF.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-TTF-Subset-NotoSansKR-VF.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-TTF-Subset-NotoSansSC-VF.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-TTF-Subset-NotoSansTC-VF.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTC-NotoSerifCJK-Black.ttc",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTC-NotoSerifCJK-Bold.ttc",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTC-NotoSerifCJK-ExtraLight.ttc",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTC-NotoSerifCJK-Light.ttc",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTC-NotoSerifCJK-Medium.ttc",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTC-NotoSerifCJK-Regular.ttc",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTC-NotoSerifCJK-SemiBold.ttc",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-Japanese-NotoSerifCJKjp-Black.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-Japanese-NotoSerifCJKjp-Bold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-Japanese-NotoSerifCJKjp-ExtraLight.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-Japanese-NotoSerifCJKjp-Light.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-Japanese-NotoSerifCJKjp-Medium.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-Japanese-NotoSerifCJKjp-Regular.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-Japanese-NotoSerifCJKjp-SemiBold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-Korean-NotoSerifCJKkr-Black.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-Korean-NotoSerifCJKkr-Bold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-Korean-NotoSerifCJKkr-ExtraLight.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-Korean-NotoSerifCJKkr-Light.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-Korean-NotoSerifCJKkr-Medium.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-Korean-NotoSerifCJKkr-Regular.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-Korean-NotoSerifCJKkr-SemiBold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-SimplifiedChinese-NotoSerifCJKsc-Black.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-SimplifiedChinese-NotoSerifCJKsc-Bold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-SimplifiedChinese-NotoSerifCJKsc-ExtraLight.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-SimplifiedChinese-NotoSerifCJKsc-Light.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-SimplifiedChinese-NotoSerifCJKsc-Medium.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-SimplifiedChinese-NotoSerifCJKsc-Regular.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-SimplifiedChinese-NotoSerifCJKsc-SemiBold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-TraditionalChinese-NotoSerifCJKtc-Black.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-TraditionalChinese-NotoSerifCJKtc-Bold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-TraditionalChinese-NotoSerifCJKtc-ExtraLight.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-TraditionalChinese-NotoSerifCJKtc-Light.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-TraditionalChinese-NotoSerifCJKtc-Medium.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-TraditionalChinese-NotoSerifCJKtc-Regular.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-TraditionalChinese-NotoSerifCJKtc-SemiBold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-TraditionalChineseHK-NotoSerifCJKhk-Black.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-TraditionalChineseHK-NotoSerifCJKhk-Bold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-TraditionalChineseHK-NotoSerifCJKhk-ExtraLight.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-TraditionalChineseHK-NotoSerifCJKhk-Light.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-TraditionalChineseHK-NotoSerifCJKhk-Medium.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-TraditionalChineseHK-NotoSerifCJKhk-Regular.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-OTF-TraditionalChineseHK-NotoSerifCJKhk-SemiBold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-HK-NotoSerifHK-Black.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-HK-NotoSerifHK-Bold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-HK-NotoSerifHK-ExtraLight.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-HK-NotoSerifHK-Light.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-HK-NotoSerifHK-Medium.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-HK-NotoSerifHK-Regular.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-HK-NotoSerifHK-SemiBold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-JP-NotoSerifJP-Black.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-JP-NotoSerifJP-Bold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-JP-NotoSerifJP-ExtraLight.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-JP-NotoSerifJP-Light.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-JP-NotoSerifJP-Medium.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-JP-NotoSerifJP-Regular.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-JP-NotoSerifJP-SemiBold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-KR-NotoSerifKR-Black.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-KR-NotoSerifKR-Bold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-KR-NotoSerifKR-ExtraLight.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-KR-NotoSerifKR-Light.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-KR-NotoSerifKR-Medium.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-KR-NotoSerifKR-Regular.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-KR-NotoSerifKR-SemiBold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-SC-NotoSerifSC-Black.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-SC-NotoSerifSC-Bold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-SC-NotoSerifSC-ExtraLight.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-SC-NotoSerifSC-Light.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-SC-NotoSerifSC-Medium.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-SC-NotoSerifSC-Regular.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-SC-NotoSerifSC-SemiBold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-TC-NotoSerifTC-Black.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-TC-NotoSerifTC-Bold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-TC-NotoSerifTC-ExtraLight.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-TC-NotoSerifTC-Light.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-TC-NotoSerifTC-Medium.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-TC-NotoSerifTC-Regular.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-SubsetOTF-TC-NotoSerifTC-SemiBold.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-Variable-OTC-NotoSerifCJK-VF.otf.ttc",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-Variable-OTC-NotoSerifCJK-VF.ttf.ttc",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-Variable-OTF-NotoSerifCJKhk-VF.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-Variable-OTF-NotoSerifCJKjp-VF.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-Variable-OTF-NotoSerifCJKkr-VF.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-Variable-OTF-NotoSerifCJKsc-VF.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-Variable-OTF-NotoSerifCJKtc-VF.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-Variable-OTF-Subset-NotoSerifHK-VF.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-Variable-OTF-Subset-NotoSerifJP-VF.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-Variable-OTF-Subset-NotoSerifKR-VF.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-Variable-OTF-Subset-NotoSerifSC-VF.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-Variable-OTF-Subset-NotoSerifTC-VF.otf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-Variable-TTF-NotoSerifCJKhk-VF.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-Variable-TTF-NotoSerifCJKjp-VF.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-Variable-TTF-NotoSerifCJKkr-VF.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-Variable-TTF-NotoSerifCJKsc-VF.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-Variable-TTF-NotoSerifCJKtc-VF.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-Variable-TTF-Subset-NotoSerifHK-VF.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-Variable-TTF-Subset-NotoSerifJP-VF.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-Variable-TTF-Subset-NotoSerifKR-VF.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-Variable-TTF-Subset-NotoSerifSC-VF.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-Serif-Variable-TTF-Subset-NotoSerifTC-VF.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-google-fonts-NotoSansHK-wght-.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-google-fonts-NotoSansJP-wght-.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-google-fonts-NotoSansKR-wght-.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-google-fonts-NotoSansSC-wght-.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-google-fonts-NotoSansTC-wght-.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-google-fonts-NotoSerifHK-wght-.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-google-fonts-NotoSerifJP-wght-.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-google-fonts-NotoSerifKR-wght-.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-google-fonts-NotoSerifSC-wght-.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-File-google-fonts-NotoSerifTC-wght-.ttf",
+      "relationshipType": "DESCRIBES"
+    },
+    {
+      "spdxElementId": "SPDXRef-File-google-fonts-NotoSansHK-wght-.ttf",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-TTF-Subset-NotoSansHK-VF.ttf",
+      "relationshipType": "FILE_MODIFIED"
+    },
+    {
+      "spdxElementId": "SPDXRef-File-google-fonts-NotoSansHK-wght-.ttf",
+      "relatedSpdxElement": "SPDXRef-File-build-gf.sh",
+      "relationshipType": "GENERATED_FROM"
+    },
+    {
+      "spdxElementId": "SPDXRef-File-google-fonts-NotoSansJP-wght-.ttf",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-TTF-Subset-NotoSansJP-VF.ttf",
+      "relationshipType": "FILE_MODIFIED"
+    },
+    {
+      "spdxElementId": "SPDXRef-File-google-fonts-NotoSansJP-wght-.ttf",
+      "relatedSpdxElement": "SPDXRef-File-build-gf.sh",
+      "relationshipType": "GENERATED_FROM"
+    },
+    {
+      "spdxElementId": "SPDXRef-File-google-fonts-NotoSansKR-wght-.ttf",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-TTF-Subset-NotoSansKR-VF.ttf",
+      "relationshipType": "FILE_MODIFIED"
+    },
+    {
+      "spdxElementId": "SPDXRef-File-google-fonts-NotoSansKR-wght-.ttf",
+      "relatedSpdxElement": "SPDXRef-File-build-gf.sh",
+      "relationshipType": "GENERATED_FROM"
+    },
+    {
+      "spdxElementId": "SPDXRef-File-google-fonts-NotoSansSC-wght-.ttf",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-TTF-Subset-NotoSansSC-VF.ttf",
+      "relationshipType": "FILE_MODIFIED"
+    },
+    {
+      "spdxElementId": "SPDXRef-File-google-fonts-NotoSansSC-wght-.ttf",
+      "relatedSpdxElement": "SPDXRef-File-build-gf.sh",
+      "relationshipType": "GENERATED_FROM"
+    },
+    {
+      "spdxElementId": "SPDXRef-File-google-fonts-NotoSansTC-wght-.ttf",
+      "relatedSpdxElement": "SPDXRef-File-Sans-Variable-TTF-Subset-NotoSansTC-VF.ttf",
+      "relationshipType": "FILE_MODIFIED"
+    },
+    {
+      "spdxElementId": "SPDXRef-File-google-fonts-NotoSansTC-wght-.ttf",
+      "relatedSpdxElement": "SPDXRef-File-build-gf.sh",
+      "relationshipType": "GENERATED_FROM"
+    },
+    {
+      "spdxElementId": "SPDXRef-File-google-fonts-NotoSerifHK-wght-.ttf",
+      "relatedSpdxElement": "SPDXRef-File-Serif-Variable-TTF-Subset-NotoSerifHK-VF.ttf",
+      "relationshipType": "FILE_MODIFIED"
+    },
+    {
+      "spdxElementId": "SPDXRef-File-google-fonts-NotoSerifHK-wght-.ttf",
+      "relatedSpdxElement": "SPDXRef-File-build-gf.sh",
+      "relationshipType": "GENERATED_FROM"
+    },
+    {
+      "spdxElementId": "SPDXRef-File-google-fonts-NotoSerifJP-wght-.ttf",
+      "relatedSpdxElement": "SPDXRef-File-Serif-Variable-TTF-Subset-NotoSerifJP-VF.ttf",
+      "relationshipType": "FILE_MODIFIED"
+    },
+    {
+      "spdxElementId": "SPDXRef-File-google-fonts-NotoSerifJP-wght-.ttf",
+      "relatedSpdxElement": "SPDXRef-File-build-gf.sh",
+      "relationshipType": "GENERATED_FROM"
+    },
+    {
+      "spdxElementId": "SPDXRef-File-google-fonts-NotoSerifKR-wght-.ttf",
+      "relatedSpdxElement": "SPDXRef-File-Serif-Variable-TTF-Subset-NotoSerifKR-VF.ttf",
+      "relationshipType": "FILE_MODIFIED"
+    },
+    {
+      "spdxElementId": "SPDXRef-File-google-fonts-NotoSerifKR-wght-.ttf",
+      "relatedSpdxElement": "SPDXRef-File-build-gf.sh",
+      "relationshipType": "GENERATED_FROM"
+    },
+    {
+      "spdxElementId": "SPDXRef-File-google-fonts-NotoSerifSC-wght-.ttf",
+      "relatedSpdxElement": "SPDXRef-File-Serif-Variable-TTF-Subset-NotoSerifSC-VF.ttf",
+      "relationshipType": "FILE_MODIFIED"
+    },
+    {
+      "spdxElementId": "SPDXRef-File-google-fonts-NotoSerifSC-wght-.ttf",
+      "relatedSpdxElement": "SPDXRef-File-build-gf.sh",
+      "relationshipType": "GENERATED_FROM"
+    },
+    {
+      "spdxElementId": "SPDXRef-File-google-fonts-NotoSerifTC-wght-.ttf",
+      "relatedSpdxElement": "SPDXRef-File-Serif-Variable-TTF-Subset-NotoSerifTC-VF.ttf",
+      "relationshipType": "FILE_MODIFIED"
+    },
+    {
+      "spdxElementId": "SPDXRef-File-google-fonts-NotoSerifTC-wght-.ttf",
+      "relatedSpdxElement": "SPDXRef-File-build-gf.sh",
+      "relationshipType": "GENERATED_FROM"
+    },
+    {
+      "spdxElementId": "SPDXRef-File-google-fonts-hotfix.py",
+      "relatedSpdxElement": "SPDXRef-File-build-gf.sh",
+      "relationshipType": "RUNTIME_DEPENDENCY_OF"
+    },
+    {
       "spdxElementId": "SPDXRef-Package-1-fontTools",
       "relatedSpdxElement": "SPDXRef-File-build-gf.sh",
       "relationshipType": "RUNTIME_DEPENDENCY_OF"
@@ -6464,13 +7719,18 @@
       "relationshipType": "RUNTIME_DEPENDENCY_OF"
     },
     {
+      "spdxElementId": "SPDXRef-Package-7-harfbuzz",
+      "relatedSpdxElement": "SPDXRef-File-google-fonts-hotfix.py",
+      "relationshipType": "RUNTIME_DEPENDENCY_OF"
+    },
+    {
       "spdxElementId": "SPDXRef-Package-8-woff2",
       "relatedSpdxElement": "SPDXRef-File-build-gf.sh",
       "relationshipType": "RUNTIME_DEPENDENCY_OF"
     },
     {
-      "spdxElementId": "SPDXRef-Package-google-fonts-hotfix.py",
-      "relatedSpdxElement": "SPDXRef-File-build-gf.sh",
+      "spdxElementId": "SPDXRef-Package-8-woff2",
+      "relatedSpdxElement": "SPDXRef-File-google-fonts-hotfix.py",
       "relationshipType": "RUNTIME_DEPENDENCY_OF"
     }
   ]
