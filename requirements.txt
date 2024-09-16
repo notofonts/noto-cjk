@@ -1,0 +1,5 @@
+fontTools==4.53.1
+chws_tool==1.4.2
+gftools==0.9.67
+axisregistry==0.4.11
+sbom4python==0.11.1
