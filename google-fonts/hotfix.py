@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: Apache-2.0
 """
 Hotfix a set of 'upstream' Noto CJK fonts to comply with fonts.google.com
 requirements. The following hotfixes are made:

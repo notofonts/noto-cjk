@@ -1,4 +1,11 @@
 #!/bin/sh
+# SPDX-License-Identifier: Apache-2.0
+
+# SBOM-Depends: chws_tool
+# SBOM-Depends: woff2
+# SBOM-Depends: google-fonts/hotfix.py
+# SBOM-Depends: fontTools
+
 if ! add-chws --help > /dev/null; then
     echo "Requires add-chws (pip install chws_tool)"; exit 1
 fi
