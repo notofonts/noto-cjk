@@ -68,7 +68,7 @@ def font_to_file(filename, upstream_binary=False):
         designer = name.getDebugName(9)
         file.set_contributor(designer)
 
-        file.set_comment("Binary file obtained from " + manufacturer)
+        file.set_comment("Binary file contributed by " + manufacturer)
     return file.get_file()
 
 
@@ -113,10 +113,7 @@ def source_to_file(filename):
     return file.get_file()
 
 
-# Build a basic SBOM just from the Python packages
 sbom_scan = SBOMScanner(False, False, False, False)
-sbom_scan.process_requirements("requirements.txt")
-
 sbom_gen = SBOMGenerator(
     sbom_type="spdx", format="json", application=__file__, version=__version__
 )
@@ -124,9 +121,6 @@ sbom_gen = SBOMGenerator(
 sbom = SBOM()
 document = sbom_scan.get_document()
 sbom.add_document(document)
-packages = sbom_scan.get_packages()
-relationships = sbom_scan.get_relationships()
-
 
 files = {}
 # Input files from Adobe
@@ -135,10 +129,6 @@ adobe = {
     for font in glob.glob("S*/**/*.[o,t]t[f,c]", recursive=True)
 }
 files.update(adobe)
-
-# Files we used in generation
-files["google-fonts/hotfix.py"] = source_to_file("google-fonts/hotfix.py")
-files["build-gf.sh"] = source_to_file("build-gf.sh")
 
 # Files we generated
 ours = {
@@ -150,24 +140,6 @@ for our in ours.values():
 files.update(ours)
 
 sbom.add_files(files)
-
-# Packages
-# We also used Harfbuzz
-harfbuzz = SBOMPackage()
-harfbuzz.initialise()
-harfbuzz.set_name("harfbuzz")
-version = subprocess.run("hb-subset --version", shell=True, capture_output=True).stdout
-version = re.search(r"(\d+\.\d+\.\d+)", version.decode("utf8"))[0]
-harfbuzz.set_version(version)
-harfbuzz.set_licenseconcluded("MIT")
-harfbuzz.set_homepage("https://github.com/harfbuzz/harfbuzz/")
-packages[("harfbuzz", version)] = harfbuzz.get_package()
-# and woff2
-woff2 = homebrew_package("woff2")
-packages[("woff2", woff2["version"])] = woff2
-
-sbom.add_packages(packages)
-sbom.add_relationships(relationships)
 
 sbom_gen.generate(
     project_name="noto-cjk" + ("-DRAFT" if DRAFT else " "),
@@ -202,17 +174,6 @@ def relates(sbom, source, target, relationship):
     )
 
 
-# hotfix.py depends on all our python packages
-for package in packages.keys():
-    if "sbom" in package:
-        continue
-    relates(sbom_gen, package[0], "google-fonts/hotfix.py", "RUNTIME_DEPENDENCY_OF")
-
-with open("build-gf.sh") as f:
-    for line in f:
-        if m := re.search("# SBOM-Depends: (.*)", line):
-            relates(sbom_gen, m[1], "build-gf.sh", "RUNTIME_DEPENDENCY_OF")
-
 for original in adobe.keys():
     relates(sbom_gen, "-", original, "DESCRIBES")
 
@@ -222,7 +183,6 @@ for original in glob.glob("S*/Variable/*/Subset/*.ttf"):
         "CJK(..)", lambda x: x[0][-2:].upper(), modified
     )
     relates(sbom_gen, modified, original, "FILE_MODIFIED")
-    relates(sbom_gen, modified, "build-gf.sh", "GENERATED_FROM")
     relates(sbom_gen, "-", modified, "DESCRIBES")
 
 sbom_gen.bom.showRelationship()

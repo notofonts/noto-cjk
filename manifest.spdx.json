@@ -6,12 +6,12 @@
     "creators": [
       "Tool: /Users/simon/others-repos/noto-cjk/generate-manifest.py-0.0.1"
     ],
-    "created": "2024-09-16T12:21:15Z",
+    "created": "2024-09-17T15:08:57Z",
     "licenseListVersion": "3.22"
   },
   "name": "noto-cjk-DRAFT",
   "dataLicense": "CC0-1.0",
-  "documentNamespace": "http://spdx.org/spdxdocs/noto-cjk-DRAFT-119d573c-cafe-4c01-a73a-051fe81213ce",
+  "documentNamespace": "http://spdx.org/spdxdocs/noto-cjk-DRAFT-72b43316-0c3b-4a15-af05-65fe27368a82",
   "files": [
     {
       "SPDXID": "SPDXRef-File-Serif-Variable-OTC-NotoSerifCJK-VF.otf.ttc",
@@ -34,7 +34,7 @@
           "checksumValue": "24720ea76c8b13e822059d155cefb0f9f6be1cfdee1e2bb67b61c96067de42c9"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -61,7 +61,7 @@
           "checksumValue": "e0be8fdd4f01c9807ee856ee0d30147f663c5ab397c491c80134266f58d1fffe"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -88,7 +88,7 @@
           "checksumValue": "9e63b78b1ece809121ff29eb880c55e196294ded9d54c0ec4ece9e4fb4daf728"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -115,7 +115,7 @@
           "checksumValue": "9c7f9650f2da5c7287063d65641c71f9a429443e41cf8174dc277df4a8579f9f"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -142,7 +142,7 @@
           "checksumValue": "c2ff7cffb6ef75193d4406b030eab5aa6503c48004acec6b040327e2fe1e9e51"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -169,7 +169,7 @@
           "checksumValue": "b5162725c15f3ef91e53de76291c5dc555ef7576578d43423d2fd9ae40559ad1"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -196,7 +196,7 @@
           "checksumValue": "dbf8ac0523dc19fa6294c52ce127a81c1b5b43ddc2e0915942bfd50aa58f4c53"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -223,7 +223,7 @@
           "checksumValue": "99999f906b3793c7c97661a05ef9d53488d488604683b308c756d084b71df7d1"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -250,7 +250,7 @@
           "checksumValue": "4c6da64568466ab21d7dabe2338696aee6a5e0314d411e34b8410767e569e12d"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -277,7 +277,7 @@
           "checksumValue": "5326cfb097e3ab26fcb39329752b5c0a439bf8d5c4649520e4b492939c352a09"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -304,7 +304,7 @@
           "checksumValue": "b25df2590ad514487eecd1244ce724d32907b533ed00e50cfc80d9e172b2bd97"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -331,7 +331,7 @@
           "checksumValue": "c2f466b741797d917aff27089f1c2eba2fe42c46ca410e2dbd39a8e95d0e5e3a"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -358,7 +358,7 @@
           "checksumValue": "43b50219efce065185d7e854f7f44a65666bc49566c61b6e2801355057869abd"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -385,7 +385,7 @@
           "checksumValue": "0ccffda602a3ea48057e7332a931e3d5505b0bafb1798d32e00b16d8d7508913"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -412,7 +412,7 @@
           "checksumValue": "eff651e003e5b6a9cb40412db7e6618ebb709d4aca6d03f9d150984660860b5d"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -439,7 +439,7 @@
           "checksumValue": "3dbebb8d3cc7c949ad4488b11b5ffe61524958e3fe9a23d5b0f57be21513e306"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -466,7 +466,7 @@
           "checksumValue": "2c13a0a124dfefcb02f93c30fa0d593aff473261bcffbc0f67d6c723a5e0a739"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -493,7 +493,7 @@
           "checksumValue": "71b4d3ded2d90ff43bb75a4e48cdbe170f0b8d5486dc89ff87f2a1728b56da64"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -520,7 +520,7 @@
           "checksumValue": "0cee38f8fd687c5410089c963492ef39f9b5a64e2b11b85ce4e86105d75e0695"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -547,7 +547,7 @@
           "checksumValue": "39701fd096bc51204a8444c6c2659f007b29674a13eb62ddfa470638fe8179cd"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -574,7 +574,7 @@
           "checksumValue": "20a6ab96b13b433e87019ad0cdf72aa522c0db5d3138acab00d076ccf18e63ef"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -601,7 +601,7 @@
           "checksumValue": "fa40e983d5004e88e08f5beee4177c8edbc72fe21f0f0c999fec3effd3ddccbf"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -628,7 +628,7 @@
           "checksumValue": "24693d48bdb9152f0a06b02af625638a1097abd6de4010ebba027f6e82710527"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -655,7 +655,7 @@
           "checksumValue": "e8f396decc1f0963a016a989c3d8852e863d1350996f573860a80767c83a1cd3"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -682,7 +682,7 @@
           "checksumValue": "e4e9beb5aaeb951e101aa8f122e2a6801ea9e48ac9f9b6bdfeef2436b55bc8ee"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -709,7 +709,7 @@
           "checksumValue": "87b656cbb4fb809095b13bb9dc165953995c7595ab63cedd8f5a8415520caca2"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -736,7 +736,7 @@
           "checksumValue": "91dde57622845beeb663f300813999febdb7fcd5e451bde199d7c954a9740cb4"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -763,7 +763,7 @@
           "checksumValue": "92ba4ac9f99074844cff7ed14d168f6783062cd53e3095643b40910a60792ff9"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -790,7 +790,7 @@
           "checksumValue": "517d9736136b3b4e9aea742a7e1acda1922aea91a4425bd8db79281934055bf5"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -817,7 +817,7 @@
           "checksumValue": "c6c7632f74a584b4281efcc3daaeb71b875465bf1ec989a94dacd76e670d3e24"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -844,7 +844,7 @@
           "checksumValue": "42729f88916dd857873d04761f9598823c2568d050c71288f4774452d63e549e"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -871,7 +871,7 @@
           "checksumValue": "37259771da6cb8193879e232d82394fa322d34b0003fa4f927b7d45497cf6646"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -898,7 +898,7 @@
           "checksumValue": "9a0a099a5da56c522168230d4a25c6b8ada1453562db8c635da27cdd31a6cc55"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -925,7 +925,7 @@
           "checksumValue": "926633de8030f2fbb147dbcebfca853bcb1c6ed33610a6816c244a8278aa962c"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -952,7 +952,7 @@
           "checksumValue": "9479585195b28e1a949fe7f8ae6cd666c51dfc4a1cabfdd6886502aeffa75f44"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -979,7 +979,7 @@
           "checksumValue": "f12b8c55173a13f4d1986169d84a0123e6789f3f4c6a9d95cb47ccef8b0e0d91"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1006,7 +1006,7 @@
           "checksumValue": "1e99e50398b82c20b153c11c4cfb12f4f64732ce8272f7eb0b807f2c40eb6d3b"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1033,7 +1033,7 @@
           "checksumValue": "63515eb0622d589a2f4062e8757c598b3da3bffd053f69abd181c210158ef10c"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1060,7 +1060,7 @@
           "checksumValue": "3ca2b3294ec84b795d0a45695e78e3612a44dce50f9fc776cd40206340a5768d"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1087,7 +1087,7 @@
           "checksumValue": "308d14f225f5dfe61e8ab0d4844ea394b399efeb7b97642fe1c8baa7ddb0db63"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1114,7 +1114,7 @@
           "checksumValue": "fd3936ff7cb87be3610d63a2d961ff06bd9ee2de9c0bb5a37890400487027e0f"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1141,7 +1141,7 @@
           "checksumValue": "e59aa64fa67b08efd000372cba5c4902424e50efef962084377c02c80f5ad593"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1168,7 +1168,7 @@
           "checksumValue": "55c68df309e702cdb56b9ffd6b8185468afc0cb070aa9c2f14099de0cae64d12"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1195,7 +1195,7 @@
           "checksumValue": "a63051d299d7219132a98ff3c2b76a62022344e50e9f3b50fdb9b0ee4560f583"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1222,7 +1222,7 @@
           "checksumValue": "8430b8df32d70c54260027c45aee579840839da514d2b234bcd7c2c77bea7fa8"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1249,7 +1249,7 @@
           "checksumValue": "5ea012e15cb7eacc1f680aee1703f3b164791b1443ea3e52b65080cca5d179cf"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1276,7 +1276,7 @@
           "checksumValue": "4635a54699624f9235ff4511e932dd8229edce678bdb00d43f46b4668b151062"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1303,7 +1303,7 @@
           "checksumValue": "efba935adbc65a8c90c64cd0f2196e0b3bdd05eabe6c3fb4e4ff6c41759d0942"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1330,7 +1330,7 @@
           "checksumValue": "263408609ef416d597718ea91055379867d3e7086fa32f049996995d4e715e55"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1357,7 +1357,7 @@
           "checksumValue": "e702be82c1940f7a566abfe15526ef51c3f7cfdad7df67bc0b797f934a67dd85"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1384,7 +1384,7 @@
           "checksumValue": "1e03488a0d5e819f07fcd74f54703a7961ba466d3ae900f8a2a730541e6d4543"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1411,7 +1411,7 @@
           "checksumValue": "f3a906cadd27f812a8b4b18618fa750928e65339fb372bd3f825f24e3271180b"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1438,7 +1438,7 @@
           "checksumValue": "116d06c2b11ceba33ccb3f8c9eb1c86aba3d5761a1199fd37f74e83365e7a53d"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1465,7 +1465,7 @@
           "checksumValue": "54e6b0fa70430987a6c12001f128812f37fc315d899cb1d964395ab6450bb977"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1492,7 +1492,7 @@
           "checksumValue": "2c9a12dbd4f2408c4610c7ee84a108b62d7236c3775baed618c64d9cb44b2f04"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1519,7 +1519,7 @@
           "checksumValue": "b7197366b775ccb6cd3473b7b09f2c5759a2fdfdbfedf975029203828d0ad386"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1546,7 +1546,7 @@
           "checksumValue": "a5056bf9b22a624b62115e9ad242879492179fe6f0b45ce5932967eb20295d5e"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1573,7 +1573,7 @@
           "checksumValue": "d55b3b7435148c54db0dd251982a400beb16724cbb7ce48c52088f2635e0d2bc"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1600,7 +1600,7 @@
           "checksumValue": "6e157ad56a601db8a9f19032aadf56d6ceb20db7acc22223dfa70d313fba76bc"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1627,7 +1627,7 @@
           "checksumValue": "5d9c31a059600193c9d7968a998bde886ccdc77e934006ad243b41794c496a7d"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1654,7 +1654,7 @@
           "checksumValue": "556fdf24fee49c30a2507798aff0b39c79a6959c9773d21ac63afa85c9128bbb"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1681,7 +1681,7 @@
           "checksumValue": "16fe6d7230f82155748e10e47420dd661a899a200e05a77ee029ab1eb0fb5f29"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1708,7 +1708,7 @@
           "checksumValue": "0a8fad491c0c2bf29b5b87e1e338c24162752713dec35f35acb48743a29ce433"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1735,7 +1735,7 @@
           "checksumValue": "1505ee3b9c0890fae6302ee0e9c6fd74d690f4a55a6ace1d9944f3f6352d622d"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1762,7 +1762,7 @@
           "checksumValue": "addde644501b8adfdceed026dc2d629c3460c2e213aba7eca9c301075dba9438"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1789,7 +1789,7 @@
           "checksumValue": "bce8d43887e2999c3af13802311fdc2b68f2c5b79d606ed3dd85293649932dcc"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1816,7 +1816,7 @@
           "checksumValue": "6dc9bb8a55eecaee08434fd97330523766979fb654005b27112cc35f5306ee68"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1843,7 +1843,7 @@
           "checksumValue": "77b4b741f864d27f15e90f275b17106dde90b2ad28f82bab72dc95805db5fb42"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1870,7 +1870,7 @@
           "checksumValue": "10cc03741178ad6d2747df8497d911e34b167d0474a826fb9d866c402cbe3d8f"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1897,7 +1897,7 @@
           "checksumValue": "b818be36894c02e75a6d094418498a52c3c6320783c7a5e82c1aa2c421794a91"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1924,7 +1924,7 @@
           "checksumValue": "6b8fca37c6dfffa113cbd3ffcdb9406b788eb697104b509cce4cb39e5b80e2c9"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1951,7 +1951,7 @@
           "checksumValue": "e687d5674d83acf62d1264da5d002c5401363418abb98dca0836d38d88953708"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -1978,7 +1978,7 @@
           "checksumValue": "9abf6df4991de1375b2e3f4d67140b47ee318d9c94ca799302bce637ea8d4c0a"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -2005,7 +2005,7 @@
           "checksumValue": "9566418d39c5f922b6847f3f67454f8c48a8c5631512261e3eaa904575460640"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -2032,7 +2032,7 @@
           "checksumValue": "87a9d570241c3990f161c424b8c603f2ab0e599f76a16e6f0caf79e2b1ab5934"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -2059,7 +2059,7 @@
           "checksumValue": "9f706546bb33289684bbd12684c46aee5797e2eabaa8c67d27d28640242adb26"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -2086,7 +2086,7 @@
           "checksumValue": "69a571360b78990c2cf0bcf34f791ff25acd10cfa7c55e036af423440045328b"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -2113,7 +2113,7 @@
           "checksumValue": "c46de9e2007ce7210854c088188245ac3ae17e77418ebc5f921e73fc646826fe"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -2140,7 +2140,7 @@
           "checksumValue": "12270613d011f70c0e1875affc845ba272e0ce1d78ca9a4398dc34cc67984b62"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -2167,7 +2167,7 @@
           "checksumValue": "19322be2ecf5dd2abd546db7a86cc83c286026cbd28593583bfcfd721e48c9fe"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -2194,7 +2194,7 @@
           "checksumValue": "8af07d4b6c2e82bcc72a30e066eaf295f11b9424f4aad2eaa9fe0e9c3b38fc73"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -2221,7 +2221,7 @@
           "checksumValue": "7da07efb309a89b156090848aab55d9dc57f15b08387b51184b08b89501a382c"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -2248,7 +2248,7 @@
           "checksumValue": "2a2eae2628df83556c54018c41e20fa532c1b862c5256ae8b3f23feb918d12ca"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -2275,7 +2275,7 @@
           "checksumValue": "2c2af226af6170ac28730be03b16ee7ffa6144fe54471d9ebe8a03de97b58160"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -2302,7 +2302,7 @@
           "checksumValue": "d627b53dbcde61e07de1498d2623a8b287f78585ffbc90cc0618d0caaa2ed6b0"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -2329,7 +2329,7 @@
           "checksumValue": "a282724dfa90f37ba6f7b2c88d2c946294c3a1578385942c0dcd27f1d2cc8260"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -2356,7 +2356,7 @@
           "checksumValue": "362c6a30210c0607288b4bca98e20b8f01998e2779585899737503bcad779478"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -2383,7 +2383,7 @@
           "checksumValue": "14618550f2b4c1696b82c1a7bb7735102195bdbe00bad0b0f0aa8e6c8d8e020c"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -2410,7 +2410,7 @@
           "checksumValue": "861a2b2c0e24b23745c262be8c3fdef63f12628f0492fb120ee51aa55c503af8"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -2437,7 +2437,7 @@
           "checksumValue": "0d04c8b4903f830dac91f67fb34ed6cdb34bfde8ebd3b238375f977190757446"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -2464,7 +2464,7 @@
           "checksumValue": "d9854c7a8ef170b5a7932558856fd64eb8de0b007cd823fed6f9f514ad2803d3"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -2491,7 +2491,7 @@
           "checksumValue": "7a8c8b6dd729eddc63b021284d1eb4ada9974c84609c5eb4b23f9591795e8e76"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -2518,7 +2518,7 @@
           "checksumValue": "5700be7fbdcd7da2e7e242fc6d29db2ff009e5fb89ea508896fc34a05e1e7baa"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -2545,7 +2545,7 @@
           "checksumValue": "42c933e8de6ec460cff7ac3452ae0849672eb7631a789431eb02ac057fe46d3b"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -2572,7 +2572,7 @@
           "checksumValue": "a4441a76dbf56719600c5dcbd5b5e5a068a20944cc41c959487a657133576ee6"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -2599,7 +2599,7 @@
           "checksumValue": "234301038e76e7c35c43113785024700c4e4fe7bdce1d1fbbc42fca7e6683798"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -2626,7 +2626,7 @@
           "checksumValue": "da0a79ee44322329dd9ff87d2cc878dc897c5180195e3f9b6cd4c8569781e887"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -2653,7 +2653,7 @@
           "checksumValue": "3ad2c936d8757c8c4d661394592a40d29bd66351d0e6971310f19b159d380db7"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -2680,7 +2680,7 @@
           "checksumValue": "422e868b6a983caa3a661f6580295fbaf00f26694087e86810fa58577e9be27a"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana & ideographs); Frank Grie\u00dfhammer (Latin, Greek & Cyrillic); Wenlong ZHANG \u5f20\u6587\u9f99 (bopomofo); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soohyun PARK \ubc15\uc218\ud604, Yejin WE \uc704\uc608\uc9c4 & Donghoon HAN \ud55c\ub3d9\ud6c8 (hangul elements, letters & syllables)"
@@ -2707,7 +2707,7 @@
           "checksumValue": "3a73c225abcfd5742ab84e613b427fb5b40c9e59b70fe3d1683f9b1da96568a0"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -2734,7 +2734,7 @@
           "checksumValue": "b861b923e105a437f30ce12573350e899ee75766c4a6e9eef6d46788fb839e76"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -2761,7 +2761,7 @@
           "checksumValue": "d3d8256cdec8dbcb3552284bc6b20c734dd60c2ee9df83b5758e34807c4bac32"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -2788,7 +2788,7 @@
           "checksumValue": "2abbfc7ff74a086cf2c1f5be6130528791cfd2c8b83466db5a1463aa63252ca7"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -2815,7 +2815,7 @@
           "checksumValue": "6b40dd16cf1b73b5a7a0ed2472d641b60e3e85e87211abd20009f67d841425da"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -2842,7 +2842,7 @@
           "checksumValue": "c485d72ca089ce65a83c483c1ddbf1791828b4c8e3c45ea5eae8063fe2164495"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -2869,7 +2869,7 @@
           "checksumValue": "990c807e79c25662a5a9ecf7f971baeb2bf2eab9a559e5ecf15cdfdb8561d21f"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -2896,7 +2896,7 @@
           "checksumValue": "7715af52f5fe77153ce5678546258993982d2da61abea8d25fb89eb5aaec5ca6"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -2923,7 +2923,7 @@
           "checksumValue": "240c9b83bf7b386edbae39995ae7e068ed4583f484d92e4a74c34158b5f27b1a"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -2950,7 +2950,7 @@
           "checksumValue": "ac091cc8cd19e848202afc8fe6d3809b4526c8fdbdb4be82da20c4f785949591"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -2977,7 +2977,7 @@
           "checksumValue": "70172afd2cf0e045182787219b949e7798253982a36e364114757c09efd55477"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3004,7 +3004,7 @@
           "checksumValue": "d68bafcb48a2707749396aa12bbbd833cb70401f3a9a689fd2902c7e0d295964"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3031,7 +3031,7 @@
           "checksumValue": "f4b373b226668ee33a6e54b02823dcd2d1209f17159f777421ae8c2275160369"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3058,7 +3058,7 @@
           "checksumValue": "9e1d729e7e2b36f9ef439da102f8c134c10aabe46f1c843bf0aca5c043b86f76"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3085,7 +3085,7 @@
           "checksumValue": "9ec93533c4cfae64321dd65108fa9ffed333b13c3c5edc8101d2379df42cb57a"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3112,7 +3112,7 @@
           "checksumValue": "b62603558130331c5077dcf03a30dcee11eecf62582f2773da510528a66348f0"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3139,7 +3139,7 @@
           "checksumValue": "9fe57a71eb48e50cccb77903123d08857edefcf289c7b309462c4c3d82208126"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3166,7 +3166,7 @@
           "checksumValue": "9a91b2f42ad958fd4295586809f85366f0afa020b85ac70b39916c25bc5cda15"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3193,7 +3193,7 @@
           "checksumValue": "0a2036b0470ad56d35776419e28361e81ce2766370b897e338678d2ce14be738"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3220,7 +3220,7 @@
           "checksumValue": "f2368580c747e2d14732b52df01ad87518610ce3377ce5ab8c914e74ba8c8a10"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3247,7 +3247,7 @@
           "checksumValue": "fb6fd590a4bcfe1b5d71b8bb0054719256b815e8fc700dd70fd171a3660a9e6b"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3274,7 +3274,7 @@
           "checksumValue": "ab2728702f90d2ae900309f299dc3c2b075010888a1a8a67fbd5b4c6aff713a0"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3301,7 +3301,7 @@
           "checksumValue": "828d8415c3e601d1b7b94c2a86f8609ce4f78abebb92773724f3f004269059e8"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3328,7 +3328,7 @@
           "checksumValue": "2745e9681cb9d8a5c8901b62c9e1bd98c9c774365fc3b84dd467621013b51cd3"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3355,7 +3355,7 @@
           "checksumValue": "3432530bc55e0943f878a3b18bb062e7954654c04e9d66c2ae80b6eb62d176c6"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3382,7 +3382,7 @@
           "checksumValue": "a080726eee9d78ec74fd95184a79c58c3085f10713e26876aab0130f543e9120"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3409,7 +3409,7 @@
           "checksumValue": "e647f53b18a4823647a51bcbdac866617701a4dd8ce495bac2db5ecea88d8f21"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3436,7 +3436,7 @@
           "checksumValue": "85e5ef353081175fb9f764f037c550dd4b5ad913cb030c0de98a5d4d4018014b"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3463,7 +3463,7 @@
           "checksumValue": "d13ed01ec8aa45d6178999b648e96fb92150683e9f8e2a581f2acf208dcbe44b"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3490,7 +3490,7 @@
           "checksumValue": "74ce929d6bec3bc5d69319c757502ee0940f7914ff09696f287a3fd45c126100"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3517,7 +3517,7 @@
           "checksumValue": "386251bee65e5580de7f92959e6e1eceb9a4f0f226994f3af208b6179396fca7"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3544,7 +3544,7 @@
           "checksumValue": "f8f3222cb6fb68637c82b1b1fa764755d3d153f5e5f3977f377550e89ca0775c"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3571,7 +3571,7 @@
           "checksumValue": "2a902655742b40d05a0192a97ee3fa347a4ca9b91d283b34e768c1362293d698"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3598,7 +3598,7 @@
           "checksumValue": "abb74b8cddf47c8267fd4948eb2b9f275218206f6cea8490d9305bb1b085bc7f"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3625,7 +3625,7 @@
           "checksumValue": "faa6c9df652116dde789d351359f3d7e5d2285a2b2a1f04a2d7244df706d5ea9"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3652,7 +3652,7 @@
           "checksumValue": "1e665b570a16ff4076d1a11cdb358bae3984a9c74b0f404b22634142618cb96b"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3679,7 +3679,7 @@
           "checksumValue": "35cca31cea56b2720c096efaea2cfdffdf1b523bf5de0a80552d16edccfa9c70"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3706,7 +3706,7 @@
           "checksumValue": "7633f5a016d4dd95e685a69633d818aabc4644c4b08e26bd35b1b30c45ed5dda"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3733,7 +3733,7 @@
           "checksumValue": "c6cb5a93abaa9edc8ee7463b7ebb7f42d618d40e6ed2f7a5371c97b0b64767c0"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3760,7 +3760,7 @@
           "checksumValue": "ccb496022356b7dd14d117538a472ae40feff8f6e8f3fe8bffc5616785d2f3f9"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3787,7 +3787,7 @@
           "checksumValue": "63a895a808a155fe69d67f742e60ee708fe0eaaef0650904bb4eead3941e98dc"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3814,7 +3814,7 @@
           "checksumValue": "4bce16fbed09278cbdfb4d57749500038cdda70737925a846e3f6c59327ab46e"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3841,7 +3841,7 @@
           "checksumValue": "988d8c5e4ceaf3f7a9237790371e1961ae0d58cee4cd129df28abd06d7553393"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3868,7 +3868,7 @@
           "checksumValue": "aa7e48349d2c606f0194fd73c3e5fad03d88d851b8a440bd189377dbeaf44f89"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3895,7 +3895,7 @@
           "checksumValue": "8a43afea92bb58dfd9027bd7ac6f5b0b2662e2ffb3e7c1edc02c62b2b21924f1"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3922,7 +3922,7 @@
           "checksumValue": "8f562edadb7c48af480c02b7446809e7a660a3990eae49f0e49f45c80a4e6155"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3949,7 +3949,7 @@
           "checksumValue": "a46ce9609d049d66223ee8bedab882373a59ac641cd77dd9ef932c66869489a3"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -3976,7 +3976,7 @@
           "checksumValue": "485a85d885f871887ac27b7240ab93fbec64c8cd1806f619d61c9e8d02734276"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4003,7 +4003,7 @@
           "checksumValue": "5bab0cb3c1cf89dde07c4a95a4054b195afbcfe784d69d75c340780712237537"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4030,7 +4030,7 @@
           "checksumValue": "55420b259eb119bf5f2a0aadba10cf9d736c12d64ab93e78546d69ef5f43558b"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4057,7 +4057,7 @@
           "checksumValue": "8e6764f88c8711158422ba0c51ee7887a4de4d79f08428a00445d33558f5da5b"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4084,7 +4084,7 @@
           "checksumValue": "961c9a8945fc18b924795f42d17a24d50abcaad8f8724aafdc94cf255b001ed1"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4111,7 +4111,7 @@
           "checksumValue": "bf206dca0975779bac71cb49a037a364156ca98a0c431b1b7d6b29fb8952ac7e"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4138,7 +4138,7 @@
           "checksumValue": "aad8876d62a620efae048d767d0ddb1d050d7212b1b4b6ace70e3030fb1fcffe"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4165,7 +4165,7 @@
           "checksumValue": "3280b221ab7b011c6ae48d38388a0e8c72ddf479992bce62ff589ae932819ce4"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4192,7 +4192,7 @@
           "checksumValue": "5971aca275255797a75c7fc43d5058487668069da93c45ad4a24be5aa1e67c85"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4219,7 +4219,7 @@
           "checksumValue": "8da8c5b84dfa0e843027fddf95748c6fdce15ae7c958279a047f041861bdd415"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4246,7 +4246,7 @@
           "checksumValue": "5a6ceb287ed2fc6cfc6213144ebea68cbd94b20fc9eb873d8486493bf02d9bda"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4273,7 +4273,7 @@
           "checksumValue": "820514af3397871f21709b540814c5c26276469a8b4d0f78cad1b69458c5f1cd"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4300,7 +4300,7 @@
           "checksumValue": "a9977a588488d2a7f544bb2b589b01bed071dca64a4655d438696301b527884b"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4327,7 +4327,7 @@
           "checksumValue": "b46988ef13e8bac08f3933af686eaf770972994f9b6d335be0184d60169b5431"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4354,7 +4354,7 @@
           "checksumValue": "69975a0ac8472717870aefeab0a4d52739308d90856b9955313b2ad5e0148d68"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4381,7 +4381,7 @@
           "checksumValue": "dff723ba59d57d136764a04b9b2d03205544f7cd785a711442d6d2d085ac5073"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4408,7 +4408,7 @@
           "checksumValue": "f396a3b57256e4515be9cb41f7aac54766d654890082a9f1b5c2451b5c093d8a"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4435,7 +4435,7 @@
           "checksumValue": "e358dcfa7970805300a953bb71209c3efcbcc17a00a5e4101f8cf94a3870ad93"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4462,7 +4462,7 @@
           "checksumValue": "1d8462eb0050bf6f8ee8dc0a34f11185839e155b0fce8ec2f14427b28d4d134f"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4489,7 +4489,7 @@
           "checksumValue": "1b0edfb500b73a4fa8a4fcaae1bbbd403994e08e73e3e0da37e70d3853f42c5f"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4516,7 +4516,7 @@
           "checksumValue": "58eb539d3c66b03118ca836f312668c7c14e8bbae1a14ef5a800611f66c2f9c2"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4543,7 +4543,7 @@
           "checksumValue": "3aa30b0956510f4205f759ab3079a5b658310ebcda2577f290466ea51c948819"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4570,7 +4570,7 @@
           "checksumValue": "3cffb10242b4b7e6edd439ebf3bd7e392345525e093ea08149e0a0158a1b5151"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4597,7 +4597,7 @@
           "checksumValue": "b76b0433203017ca80401b2ee0dd69350349871c4b19d504c34dbdd80541690a"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4624,7 +4624,7 @@
           "checksumValue": "faa5f3656a78b2e2d450d27fe8382c778bc2b6bb5ea29c986664a6a435056ceb"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4651,7 +4651,7 @@
           "checksumValue": "73c01c7f28072016d44ca57893a7c3b2c4ca31d9662032c5b315164625f0dfe4"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4678,7 +4678,7 @@
           "checksumValue": "872def437cf8b9c41bf1736da891e34a8c25b764c0c4a51418d3745570660f42"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4705,7 +4705,7 @@
           "checksumValue": "197d5e1e019faca33a4d55931c7d68b8056f3b97cb862049f5cb8de9efdfb8ce"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4732,7 +4732,7 @@
           "checksumValue": "6efb3dfee32c261d6be3c2b1f89928afc1d18328499cddda4b1833338e7054b7"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4759,7 +4759,7 @@
           "checksumValue": "8b82692e9d54205655efd620ab6ff4ad55df94e149021d99529d95e1120621e4"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4786,7 +4786,7 @@
           "checksumValue": "d5afed9988a28ae96afb0f4791754d3c9f4f08d08477eb1a7d6e2d905679a472"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4813,7 +4813,7 @@
           "checksumValue": "5ea3414e255133ce51aae21bb1e0e428968158bddaaee2597fdfc30cc84bb39a"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4840,7 +4840,7 @@
           "checksumValue": "f72d973a07253e24a08b4fd6923d33087ad33324868a9f9bf17e7c824306d1a1"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4867,7 +4867,7 @@
           "checksumValue": "da24a73c59e785f0f6a726d038a30f62f0a371be0d2df048d1a32926cd072fc5"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4894,7 +4894,7 @@
           "checksumValue": "ec04cc376b34887cedbdf84074e2e226ed2761eeabdcb9173fc1dd7bfd153ef7"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4921,7 +4921,7 @@
           "checksumValue": "82a040aed900bba51b5990bc158a86b264c8ad5071a2d8911e8696350e0794b3"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4948,7 +4948,7 @@
           "checksumValue": "a452fedfc0619e43e080b7b861ce34cbd3ec4fbcea495bf8c402a5a02a5dcbdc"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -4975,7 +4975,7 @@
           "checksumValue": "4d01725be822d144cf9a56ade981e6fb920cd7a610b8fc24cc601a920beea5b9"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5002,7 +5002,7 @@
           "checksumValue": "dfdffe149bc6cbf52860dabd8b8dadbca40ae87a4fbe143b55c0258db2dadfb8"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5029,7 +5029,7 @@
           "checksumValue": "6b8aabf9086140e8846be0316e06159db400e6867f4b3042af0f82a03edeff0e"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5056,7 +5056,7 @@
           "checksumValue": "dd7b46485c0796583aa1bed3576535af6047cff5b055db9e20a1de2ed027e57a"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5083,7 +5083,7 @@
           "checksumValue": "15c12166634936c31307b91bd049d95b4ba30c248e8c389b5388f75ae8ba90d6"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5110,7 +5110,7 @@
           "checksumValue": "2f45abf3908d88ee45d2831484c920ec4a65e214ec14a8e0341ff2213579d5fc"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5137,7 +5137,7 @@
           "checksumValue": "436e2833751f692e69dd09e9d878da2a2aa6b683457f0947a857c3dc334f17f1"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5164,7 +5164,7 @@
           "checksumValue": "6bcb2a0703aa137e874fc2dffa85f6c21ba9a67fa329e81b8c801663af7e992a"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5191,7 +5191,7 @@
           "checksumValue": "26d0c6748500a0444844280b308f5b62c7ae92ac6c6ac88148e502dd211eb52a"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5218,7 +5218,7 @@
           "checksumValue": "97c937514d645eae90415d30ba025e08a94d5bdffdc627404864f90aa0c7d83b"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5245,7 +5245,7 @@
           "checksumValue": "a89a324363b717f90de3ca3d3c7d89e3c81ce0ed74c736ab84e08872843d7672"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5272,7 +5272,7 @@
           "checksumValue": "13148319e2e50bc453cf47addb493370565fd64bd926962b0ac1017b3f3cafee"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5299,7 +5299,7 @@
           "checksumValue": "a9b0265b7beae89767bb952094a1765fb8b4868064974e5f12ec783d8fe97d99"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5326,7 +5326,7 @@
           "checksumValue": "c3d2599cdeb07114215c2f1d456d7f4dd437672215f6a5c24a74854045ab7a14"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5353,7 +5353,7 @@
           "checksumValue": "0fa4fa6142cac84a8e271263ab0620293426feeff4642bc70c3ba4ce0a7f5efd"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5380,7 +5380,7 @@
           "checksumValue": "3ef4dc59d01411352aced4935f782f05d8e527ebd3acb4735433e7cb2477a6b4"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5407,7 +5407,7 @@
           "checksumValue": "b5f0d1a190a7f9b43c310a8850630af12553df32c4c050543f9059732d9b4c0a"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5434,7 +5434,7 @@
           "checksumValue": "2c76254f6fc379fddfce0a7e84fb5385bb135d3e399294f6eeb6680d0365b74b"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5461,7 +5461,7 @@
           "checksumValue": "89bb8179d1b285ac0ca236b37ff29929ee3cc4526048dc11630a55728063e5ba"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5488,7 +5488,7 @@
           "checksumValue": "2267c4a0312d267dff8c0d1609948f7d949a3da8be3e126f5e2690cb9cc883b4"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5515,7 +5515,7 @@
           "checksumValue": "4600700d1b10c8e82074de7c91fa60d2ff5d0a7b9588edea6ab0929424b1699f"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5542,7 +5542,7 @@
           "checksumValue": "e78bbbe1573bbb006156c1198f5c8cd6329470cb6e0b6702c7a3c83913db4abf"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5569,7 +5569,7 @@
           "checksumValue": "ca094f6b0001fb048ca39ddd797a0cdb0179e1e55c6561e111c49c3e6a61d7b7"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5596,7 +5596,7 @@
           "checksumValue": "e53dcb0dcb2922e45d01aae1ebd2f382bb81d4229b18b6b883bd170678af1f76"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5623,7 +5623,7 @@
           "checksumValue": "cd66686594a861a42fe752990a406fcedafb51b3a91d6639f30f8948f7a10b4d"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5650,7 +5650,7 @@
           "checksumValue": "68a3fc98800b2a27b371f2fb79991daf3633bd89309d4ffaa6946fd587f375b5"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5677,7 +5677,7 @@
           "checksumValue": "293b7592d8cde99b91fef52ad0b58eb09740d597f48c8639ef3290ebc198772c"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5704,7 +5704,7 @@
           "checksumValue": "dd523e580e3413c480b2d701bf64e534c20f8419e3cfb6a44c2bdcd8d2a6c052"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5731,7 +5731,7 @@
           "checksumValue": "f29b82874c6e80cef845770b35e111cc3bdff7b8b25d8a41f2285083152ecdfe"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5758,7 +5758,7 @@
           "checksumValue": "53f8a6290445e414efaf7feac2b4c6d321d371037a772cc04750b7c56bca0267"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5785,7 +5785,7 @@
           "checksumValue": "2905dd3de65d7b7de764596e2294978407986f4cc0a66c9584c5b95c5aa9572e"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5812,7 +5812,7 @@
           "checksumValue": "8d0b82a379fac186ea5ec7ebf00828a5e58c32b3a5a917298f768299707d076d"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5839,7 +5839,7 @@
           "checksumValue": "dce08bd4fd91aa8aa76ed8fea4b694c2dfb8550f67871e326843212ddbeb88b4"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5866,7 +5866,7 @@
           "checksumValue": "f24d17065ac93a0bbfdfbaf3cafc968ca6531986b8c3faccd6b3ca835117d365"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5893,7 +5893,7 @@
           "checksumValue": "3ee160e5015106e3ec1a394301df54fa9bbbf8a251519984aec5c0abc50840c0"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5920,7 +5920,7 @@
           "checksumValue": "031ca6e4ec290cf551ff092395f0ee8b0ce5fd03a5f84c766b7545e1af8345a6"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
@@ -5947,55 +5947,11 @@
           "checksumValue": "a49db53f6aac529d91a036606e55d68e2ab1df1360f507504ac4ff2cbb0f9407"
         }
       ],
-      "fileComment": "Binary file obtained from Adobe",
+      "fileComment": "Binary file contributed by Adobe",
       "fileContributor": [
         "Adobe",
         "Ryoko NISHIZUKA \u897f\u585a\u6dbc\u5b50 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications \uc0b0\ub3cc\ucee4\ubba4\ub2c8\ucf00\uc774\uc158, Soo-young JANG \uc7a5\uc218\uc601 & Joo-yeon KANG \uac15\uc8fc\uc5f0 (hangul elements, letters & syllables)"
       ]
-    },
-    {
-      "SPDXID": "SPDXRef-File-google-fonts-hotfix.py",
-      "fileName": "./google-fonts/hotfix.py",
-      "licenseConcluded": "Apache-2.0",
-      "fileTypes": [
-        "SOURCE"
-      ],
-      "licenseInfoInFiles": [
-        "Apache-2.0"
-      ],
-      "checksums": [
-        {
-          "algorithm": "SHA1",
-          "checksumValue": "46621e33702b5fcc59010151ecf741a95f23de54"
-        },
-        {
-          "algorithm": "SHA256",
-          "checksumValue": "be2fbd476630a20588b8c8d97c719e4ae90ab4ac24f5ba57cab18b45d88646bc"
-        }
-      ],
-      "fileComment": "Taken from https://github.com/notofonts/noto-cjk\n git rev bdad438c0080a5d3055c83b2ab8ca194556be423"
-    },
-    {
-      "SPDXID": "SPDXRef-File-build-gf.sh",
-      "fileName": "./build-gf.sh",
-      "licenseConcluded": "Apache-2.0",
-      "fileTypes": [
-        "SOURCE"
-      ],
-      "licenseInfoInFiles": [
-        "Apache-2.0"
-      ],
-      "checksums": [
-        {
-          "algorithm": "SHA1",
-          "checksumValue": "1b83e40055566b8b586a7a11ea8cef49d5276af6"
-        },
-        {
-          "algorithm": "SHA256",
-          "checksumValue": "4facacb676558ac9a4628f9450008324c62b4626cd42cbc071361eef7208a9d7"
-        }
-      ],
-      "fileComment": "Taken from https://github.com/notofonts/noto-cjk\n git rev 5a6a19b2e6620e113ecaa20b96cd2a7df36b000e"
     },
     {
       "SPDXID": "SPDXRef-File-google-fonts-NotoSerifHK-wght-.ttf",
@@ -6228,200 +6184,7 @@
       "fileComment": "Generated as described in relationships section"
     }
   ],
-  "packages": [
-    {
-      "SPDXID": "SPDXRef-Package-1-fontTools",
-      "name": "fontTools",
-      "versionInfo": "4.53.1",
-      "primaryPackagePurpose": "APPLICATION",
-      "supplier": "Person: FontTools (fonttools@googlegroups.com)",
-      "downloadLocation": "https://pypi.org/project/fontTools/4.53.1",
-      "filesAnalyzed": false,
-      "homepage": "http://github.com/fonttools/fonttools",
-      "checksums": [
-        {
-          "algorithm": "SHA1",
-          "checksumValue": "d3e68f28f2e3b4992b74bc7cac6a6acc8f7d9bda"
-        }
-      ],
-      "licenseConcluded": "MIT",
-      "licenseDeclared": "MIT",
-      "copyrightText": "NOASSERTION",
-      "summary": "Tools to manipulate font files",
-      "externalRefs": [
-        {
-          "referenceCategory": "PACKAGE_MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:pypi/fontTools@4.53.1"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:fonttools:fontTools:4.53.1:*:*:*:*:*:*:*"
-        }
-      ]
-    },
-    {
-      "SPDXID": "SPDXRef-Package-2-chws-tool",
-      "name": "chws_tool",
-      "versionInfo": "1.4.2",
-      "primaryPackagePurpose": "APPLICATION",
-      "supplier": "Person: Google Fonts",
-      "downloadLocation": "https://pypi.org/project/chws_tool/1.4.2",
-      "filesAnalyzed": false,
-      "homepage": "https://github.com/googlefonts/chws_tool",
-      "checksums": [
-        {
-          "algorithm": "SHA1",
-          "checksumValue": "8b3ef954af3570af3cf5994b25e8e23c110dcdfc"
-        }
-      ],
-      "licenseConcluded": "Apache-2.0",
-      "licenseDeclared": "NOASSERTION",
-      "licenseComments": "chws_tool declares apache-2.0 which is not currently a valid SPDX License identifier or expression.",
-      "copyrightText": "NOASSERTION",
-      "summary": "Utility for OpenType chws/vchw features",
-      "externalRefs": [
-        {
-          "referenceCategory": "PACKAGE_MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:pypi/chws_tool@1.4.2"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:google_fonts:chws_tool:1.4.2:*:*:*:*:*:*:*"
-        }
-      ]
-    },
-    {
-      "SPDXID": "SPDXRef-Package-3-gftools",
-      "name": "gftools",
-      "versionInfo": "0.9.67",
-      "primaryPackagePurpose": "APPLICATION",
-      "supplier": "Person: Google Fonts",
-      "downloadLocation": "https://pypi.org/project/gftools/0.9.67",
-      "filesAnalyzed": false,
-      "licenseConcluded": "Apache-2.0",
-      "licenseDeclared": "NOASSERTION",
-      "licenseComments": "gftools declares Apache Software License which is not currently a valid SPDX License identifier or expression.",
-      "copyrightText": "NOASSERTION",
-      "summary": "Google Fonts Tools is a set of command-line tools for testing font projects",
-      "externalRefs": [
-        {
-          "referenceCategory": "PACKAGE_MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:pypi/gftools@0.9.67"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:google_fonts:gftools:0.9.67:*:*:*:*:*:*:*"
-        }
-      ]
-    },
-    {
-      "SPDXID": "SPDXRef-Package-4-axisregistry",
-      "name": "axisregistry",
-      "versionInfo": "0.4.11",
-      "primaryPackagePurpose": "APPLICATION",
-      "supplier": "Person: Google Fonts",
-      "downloadLocation": "https://pypi.org/project/axisregistry/0.4.11",
-      "filesAnalyzed": false,
-      "homepage": "https://github.com/googlefonts/axisregistry/",
-      "licenseConcluded": "Apache-2.0",
-      "licenseDeclared": "NOASSERTION",
-      "licenseComments": "axisregistry declares Apache Software License which is not currently a valid SPDX License identifier or expression.",
-      "copyrightText": "NOASSERTION",
-      "summary": "A python API to access data from the Google Fonts variable fonts axis registry.",
-      "externalRefs": [
-        {
-          "referenceCategory": "PACKAGE_MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:pypi/axisregistry@0.4.11"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:google_fonts:axisregistry:0.4.11:*:*:*:*:*:*:*"
-        }
-      ]
-    },
-    {
-      "SPDXID": "SPDXRef-Package-5-sbom4python",
-      "name": "sbom4python",
-      "versionInfo": "0.11.1",
-      "primaryPackagePurpose": "APPLICATION",
-      "supplier": "Person: anthonyharrison",
-      "downloadLocation": "https://pypi.org/project/sbom4python/0.11.1",
-      "filesAnalyzed": false,
-      "homepage": "https://github.com/anthonyharrison/sbom4python",
-      "licenseConcluded": "Apache-2.0",
-      "licenseDeclared": "Apache-2.0",
-      "copyrightText": "NOASSERTION",
-      "summary": "SBOM generator for Python modules",
-      "externalRefs": [
-        {
-          "referenceCategory": "PACKAGE_MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:pypi/sbom4python@0.11.1"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:anthonyharrison:sbom4python:0.11.1:*:*:*:*:*:*:*"
-        }
-      ]
-    },
-    {
-      "SPDXID": "SPDXRef-Package-6-lib4sbom",
-      "name": "lib4sbom",
-      "versionInfo": "0.4.7",
-      "primaryPackagePurpose": "APPLICATION",
-      "supplier": "Person: anthonyharrison",
-      "downloadLocation": "https://pypi.org/project/lib4sbom/0.4.7",
-      "filesAnalyzed": false,
-      "homepage": "https://github.com/anthonyharrison/lib4sbom",
-      "licenseConcluded": "Apache-2.0",
-      "licenseDeclared": "Apache-2.0",
-      "copyrightText": "NOASSERTION",
-      "summary": "Software Bill of Material (SBOM) generator and consumer library",
-      "externalRefs": [
-        {
-          "referenceCategory": "PACKAGE_MANAGER",
-          "referenceType": "purl",
-          "referenceLocator": "pkg:pypi/lib4sbom@0.4.7"
-        },
-        {
-          "referenceCategory": "SECURITY",
-          "referenceType": "cpe23Type",
-          "referenceLocator": "cpe:2.3:a:anthonyharrison:lib4sbom:0.4.7:*:*:*:*:*:*:*"
-        }
-      ]
-    },
-    {
-      "SPDXID": "SPDXRef-Package-7-harfbuzz",
-      "name": "harfbuzz",
-      "versionInfo": "8.0.1",
-      "primaryPackagePurpose": "LIBRARY",
-      "downloadLocation": "NOASSERTION",
-      "filesAnalyzed": false,
-      "homepage": "https://github.com/harfbuzz/harfbuzz/",
-      "licenseConcluded": "MIT",
-      "copyrightText": "NOASSERTION"
-    },
-    {
-      "SPDXID": "SPDXRef-Package-8-woff2",
-      "name": "woff2",
-      "versionInfo": "1.0.2",
-      "primaryPackagePurpose": "LIBRARY",
-      "downloadLocation": "NOASSERTION",
-      "filesAnalyzed": false,
-      "homepage": "https://github.com/google/woff2",
-      "licenseConcluded": "MIT",
-      "copyrightText": "NOASSERTION"
-    }
-  ],
+  "packages": [],
   "relationships": [
     {
       "spdxElementId": "SPDXRef-DOCUMENT",
@@ -7579,19 +7342,9 @@
       "relationshipType": "FILE_MODIFIED"
     },
     {
-      "spdxElementId": "SPDXRef-File-google-fonts-NotoSansHK-wght-.ttf",
-      "relatedSpdxElement": "SPDXRef-File-build-gf.sh",
-      "relationshipType": "GENERATED_FROM"
-    },
-    {
       "spdxElementId": "SPDXRef-File-google-fonts-NotoSansJP-wght-.ttf",
       "relatedSpdxElement": "SPDXRef-File-Sans-Variable-TTF-Subset-NotoSansJP-VF.ttf",
       "relationshipType": "FILE_MODIFIED"
-    },
-    {
-      "spdxElementId": "SPDXRef-File-google-fonts-NotoSansJP-wght-.ttf",
-      "relatedSpdxElement": "SPDXRef-File-build-gf.sh",
-      "relationshipType": "GENERATED_FROM"
     },
     {
       "spdxElementId": "SPDXRef-File-google-fonts-NotoSansKR-wght-.ttf",
@@ -7599,19 +7352,9 @@
       "relationshipType": "FILE_MODIFIED"
     },
     {
-      "spdxElementId": "SPDXRef-File-google-fonts-NotoSansKR-wght-.ttf",
-      "relatedSpdxElement": "SPDXRef-File-build-gf.sh",
-      "relationshipType": "GENERATED_FROM"
-    },
-    {
       "spdxElementId": "SPDXRef-File-google-fonts-NotoSansSC-wght-.ttf",
       "relatedSpdxElement": "SPDXRef-File-Sans-Variable-TTF-Subset-NotoSansSC-VF.ttf",
       "relationshipType": "FILE_MODIFIED"
-    },
-    {
-      "spdxElementId": "SPDXRef-File-google-fonts-NotoSansSC-wght-.ttf",
-      "relatedSpdxElement": "SPDXRef-File-build-gf.sh",
-      "relationshipType": "GENERATED_FROM"
     },
     {
       "spdxElementId": "SPDXRef-File-google-fonts-NotoSansTC-wght-.ttf",
@@ -7619,19 +7362,9 @@
       "relationshipType": "FILE_MODIFIED"
     },
     {
-      "spdxElementId": "SPDXRef-File-google-fonts-NotoSansTC-wght-.ttf",
-      "relatedSpdxElement": "SPDXRef-File-build-gf.sh",
-      "relationshipType": "GENERATED_FROM"
-    },
-    {
       "spdxElementId": "SPDXRef-File-google-fonts-NotoSerifHK-wght-.ttf",
       "relatedSpdxElement": "SPDXRef-File-Serif-Variable-TTF-Subset-NotoSerifHK-VF.ttf",
       "relationshipType": "FILE_MODIFIED"
-    },
-    {
-      "spdxElementId": "SPDXRef-File-google-fonts-NotoSerifHK-wght-.ttf",
-      "relatedSpdxElement": "SPDXRef-File-build-gf.sh",
-      "relationshipType": "GENERATED_FROM"
     },
     {
       "spdxElementId": "SPDXRef-File-google-fonts-NotoSerifJP-wght-.ttf",
@@ -7639,19 +7372,9 @@
       "relationshipType": "FILE_MODIFIED"
     },
     {
-      "spdxElementId": "SPDXRef-File-google-fonts-NotoSerifJP-wght-.ttf",
-      "relatedSpdxElement": "SPDXRef-File-build-gf.sh",
-      "relationshipType": "GENERATED_FROM"
-    },
-    {
       "spdxElementId": "SPDXRef-File-google-fonts-NotoSerifKR-wght-.ttf",
       "relatedSpdxElement": "SPDXRef-File-Serif-Variable-TTF-Subset-NotoSerifKR-VF.ttf",
       "relationshipType": "FILE_MODIFIED"
-    },
-    {
-      "spdxElementId": "SPDXRef-File-google-fonts-NotoSerifKR-wght-.ttf",
-      "relatedSpdxElement": "SPDXRef-File-build-gf.sh",
-      "relationshipType": "GENERATED_FROM"
     },
     {
       "spdxElementId": "SPDXRef-File-google-fonts-NotoSerifSC-wght-.ttf",
@@ -7659,79 +7382,9 @@
       "relationshipType": "FILE_MODIFIED"
     },
     {
-      "spdxElementId": "SPDXRef-File-google-fonts-NotoSerifSC-wght-.ttf",
-      "relatedSpdxElement": "SPDXRef-File-build-gf.sh",
-      "relationshipType": "GENERATED_FROM"
-    },
-    {
       "spdxElementId": "SPDXRef-File-google-fonts-NotoSerifTC-wght-.ttf",
       "relatedSpdxElement": "SPDXRef-File-Serif-Variable-TTF-Subset-NotoSerifTC-VF.ttf",
       "relationshipType": "FILE_MODIFIED"
-    },
-    {
-      "spdxElementId": "SPDXRef-File-google-fonts-NotoSerifTC-wght-.ttf",
-      "relatedSpdxElement": "SPDXRef-File-build-gf.sh",
-      "relationshipType": "GENERATED_FROM"
-    },
-    {
-      "spdxElementId": "SPDXRef-File-google-fonts-hotfix.py",
-      "relatedSpdxElement": "SPDXRef-File-build-gf.sh",
-      "relationshipType": "RUNTIME_DEPENDENCY_OF"
-    },
-    {
-      "spdxElementId": "SPDXRef-Package-1-fontTools",
-      "relatedSpdxElement": "SPDXRef-File-build-gf.sh",
-      "relationshipType": "RUNTIME_DEPENDENCY_OF"
-    },
-    {
-      "spdxElementId": "SPDXRef-Package-1-fontTools",
-      "relatedSpdxElement": "SPDXRef-File-google-fonts-hotfix.py",
-      "relationshipType": "RUNTIME_DEPENDENCY_OF"
-    },
-    {
-      "spdxElementId": "SPDXRef-Package-2-chws-tool",
-      "relatedSpdxElement": "SPDXRef-File-build-gf.sh",
-      "relationshipType": "RUNTIME_DEPENDENCY_OF"
-    },
-    {
-      "spdxElementId": "SPDXRef-Package-2-chws-tool",
-      "relatedSpdxElement": "SPDXRef-File-google-fonts-hotfix.py",
-      "relationshipType": "RUNTIME_DEPENDENCY_OF"
-    },
-    {
-      "spdxElementId": "SPDXRef-Package-3-gftools",
-      "relatedSpdxElement": "SPDXRef-File-google-fonts-hotfix.py",
-      "relationshipType": "RUNTIME_DEPENDENCY_OF"
-    },
-    {
-      "spdxElementId": "SPDXRef-Package-4-axisregistry",
-      "relatedSpdxElement": "SPDXRef-File-google-fonts-hotfix.py",
-      "relationshipType": "RUNTIME_DEPENDENCY_OF"
-    },
-    {
-      "spdxElementId": "SPDXRef-Package-5-sbom4python",
-      "relatedSpdxElement": "SPDXRef-File-google-fonts-hotfix.py",
-      "relationshipType": "RUNTIME_DEPENDENCY_OF"
-    },
-    {
-      "spdxElementId": "SPDXRef-Package-6-lib4sbom",
-      "relatedSpdxElement": "SPDXRef-File-google-fonts-hotfix.py",
-      "relationshipType": "RUNTIME_DEPENDENCY_OF"
-    },
-    {
-      "spdxElementId": "SPDXRef-Package-7-harfbuzz",
-      "relatedSpdxElement": "SPDXRef-File-google-fonts-hotfix.py",
-      "relationshipType": "RUNTIME_DEPENDENCY_OF"
-    },
-    {
-      "spdxElementId": "SPDXRef-Package-8-woff2",
-      "relatedSpdxElement": "SPDXRef-File-build-gf.sh",
-      "relationshipType": "RUNTIME_DEPENDENCY_OF"
-    },
-    {
-      "spdxElementId": "SPDXRef-Package-8-woff2",
-      "relatedSpdxElement": "SPDXRef-File-google-fonts-hotfix.py",
-      "relationshipType": "RUNTIME_DEPENDENCY_OF"
     }
   ]
 }
