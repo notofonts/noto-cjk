@@ -15,7 +15,14 @@ from lib4sbom.output import SBOMOutput
 from sbom4python.scanner import SBOMScanner
 
 __version__ = "0.0.1"
-DRAFT = True
+SOURCESANS_RELEASE_URL = (
+    "https://github.com/adobe-fonts/source-han-sans/releases/tag/2.004R"
+)
+SOURCESERIF_RELEASE_URL = (
+    "https://github.com/adobe-fonts/source-han-serif/releases/tag/2.003"
+)
+
+DRAFT = False
 # Most of this is written in as general a way as possible, so it can be reused
 # as a basis for other font projects. The noto-cjk specific stuff is at the end.
 
@@ -141,8 +148,41 @@ files.update(ours)
 
 sbom.add_files(files)
 
+# Let's consider Source Han Serif and Source Han Sans as packages, and
+# the Adobe dropped files as FILE_MODIFIED from the package
+source_sans = SBOMPackage()
+source_sans.initialise()
+source_sans.set_name("Source Han Sans")
+source_sans.set_type("ARCHIVE")
+source_sans.set_supplier("organization", "Adobe")
+source_sans.set_downloadlocation(SOURCESANS_RELEASE_URL)
+source_sans.set_homepage("https://github.com/adobe-fonts/source-han-sans")
+source_sans.set_licenseconcluded("OFL-1.1-RFN")
+sans_version = str(
+    TTFont("Sans/OTF/Japanese/NotoSansCJKjp-Regular.otf")["head"].fontRevision
+)
+source_sans.set_version(sans_version)
+source_serif = SBOMPackage()
+source_serif.initialise()
+source_serif.set_type("ARCHIVE")
+source_serif.set_name("Source Han Serif")
+source_serif.set_supplier("organization", "Adobe")
+source_serif.set_downloadlocation(SOURCESERIF_RELEASE_URL)
+source_serif.set_homepage("https://github.com/adobe-fonts/source-han-serif")
+source_serif.set_licenseconcluded("OFL-1.1-RFN")
+serif_version = str(
+    TTFont("Serif/OTF/Japanese/NotoSerifCJKjp-Regular.otf")["head"].fontRevision
+)
+source_serif.set_version(serif_version)
+sbom.add_packages(
+    {
+        "Source Han Sans": source_sans.get_package(),
+        "Source Han Serif": source_serif.get_package(),
+    }
+)
+
 sbom_gen.generate(
-    project_name="noto-cjk" + ("-DRAFT" if DRAFT else " "),
+    project_name="noto-cjk" + ("-DRAFT" if DRAFT else ""),
     sbom_data=sbom.get_sbom(),
     send_to_output=False,
 )
@@ -176,6 +216,10 @@ def relates(sbom, source, target, relationship):
 
 for original in adobe.keys():
     relates(sbom_gen, "-", original, "DESCRIBES")
+    if "Sans" in original:
+        relates(sbom_gen, "Source Han Sans", original, "FILE_MODIFIED")
+    else:
+        relates(sbom_gen, "Source Han Serif", original, "FILE_MODIFIED")
 
 for original in glob.glob("S*/Variable/*/Subset/*.ttf"):
     modified = os.path.basename(original).replace("-VF.ttf", "[wght].ttf")
