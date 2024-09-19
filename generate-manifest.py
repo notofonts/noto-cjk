@@ -124,6 +124,7 @@ sbom_scan = SBOMScanner(False, False, False, False)
 sbom_gen = SBOMGenerator(
     sbom_type="spdx", format="json", application=__file__, version=__version__
 )
+sbom_gen.bom.spdx_version = "SPDX-2.2"  # All ms sbom-tool can cope with
 
 sbom = SBOM()
 document = sbom_scan.get_document()
@@ -230,5 +231,11 @@ for original in glob.glob("S*/Variable/*/Subset/*.ttf"):
     relates(sbom_gen, "-", modified, "DESCRIBES")
 
 sbom_gen.bom.showRelationship()
-sbom_out = SBOMOutput("manifest.spdx.json", output_format="json")
+
+manifest_dir = os.path.join(
+    "_manifest", sbom_gen.bom.spdx_version.lower().replace("-", "_")
+)
+os.makedirs(manifest_dir, exist_ok=True)
+sbom_path = os.path.join(manifest_dir, "manifest.spdx.json")
+sbom_out = SBOMOutput(sbom_path, output_format="json")
 sbom_out.generate_output(sbom_gen.sbom)

@@ -1,17 +1,17 @@
 {
   "SPDXID": "SPDXRef-DOCUMENT",
-  "spdxVersion": "SPDX-2.3",
+  "spdxVersion": "SPDX-2.2",
   "creationInfo": {
     "comment": "This document has been automatically generated.",
     "creators": [
       "Tool: /Users/simon/others-repos/noto-cjk/generate-manifest.py-0.0.1"
     ],
-    "created": "2024-09-19T10:12:20Z",
+    "created": "2024-09-19T10:20:55Z",
     "licenseListVersion": "3.22"
   },
   "name": "noto-cjk",
   "dataLicense": "CC0-1.0",
-  "documentNamespace": "http://spdx.org/spdxdocs/noto-cjk-56b344a7-0408-433d-accc-fd5fbe6e6d60",
+  "documentNamespace": "http://spdx.org/spdxdocs/noto-cjk-be8b4746-e834-4c52-98dc-322be71277b5",
   "files": [
     {
       "SPDXID": "SPDXRef-File-Serif-Variable-OTC-NotoSerifCJK-VF.otf.ttc",
